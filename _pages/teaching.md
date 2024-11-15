@@ -24,10 +24,9 @@ During my PhD program, I have been actively involved in teaching and mentoring. 
 
 ### Undergraduate Research Supervision
 - **March - May 2024:** Co-supervised four second-year undergraduate students pursuing a dual degree in Mathematics, Physics, and Engineering Science, Paris-Saclay University.  
-  *Project:* Introduction to research through a hands-on project which consit on labelisation of crater superposition using python.
-  *Duration:* 8 weeks
-
+  *Project:* Introduction to research through a hands-on project which consists of labelizing crater superposition using Python.  
+  *Duration:* 8 weeks  
 
 - **June - July 2024:** Co-supervised one second-year undergraduate student majoring in Earth, Planetary, and Environmental Sciences.  
-  *Project:* Focused on the re-evaluation of Apollo XI landing site geologic age using a deep-learning based crater counting algorithm
+  *Project:* Focused on the re-evaluation of Apollo XI landing site geologic age using a deep-learning-based crater counting algorithm.  
   *Duration:* 8 weeks
