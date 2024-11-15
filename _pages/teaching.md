@@ -7,7 +7,7 @@ author_profile: true
 
 {% include base_path %}
 
-Since the beginning of my PhD program in October 2022, I have been actively involved in teaching and mentoring. Below is a summary of my teaching activities:
+During my PhD program, I have been actively involved in teaching and mentoring. Below is a summary of my teaching activities:
 
 ## Teaching Activities
 
@@ -27,4 +27,4 @@ Since the beginning of my PhD program in October 2022, I have been actively invo
   *Project:* Introduction to research through a hands-on project which consit on labelisation of crater superposition using python.  
 
 - **June 2024:** Supervised one second-year undergraduate student majoring in Earth, Planetary, and Environmental Sciences.  
-  *Project:* Focused on planetary surface processes and their analysis using remote sensing techniques.
+  *Project:* Focused on the re-evaluation of Apollo XI landing site geologic age using a deep-learning based crater counting algorithm
