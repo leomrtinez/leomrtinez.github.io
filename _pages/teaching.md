@@ -14,13 +14,13 @@ Since the beginning of my PhD program in October 2022, I have been actively invo
 ## Teaching Activities
 
 ### Master's Level Courses
-- **Laboratory Class: Geographic Information Systems (GIS)**  
+- **Lecture Course: Geographic Information Systems (GIS)**  
   *Target Audience:* Second-year Master's students in Planetology and Space Exploration, Paris-Saclay University.  
-  *Description:* This course introduces students to the principles and applications of GIS in planetary sciences. I have delivered this course every year from 2022 to 2024.
+  *Description:* This course introduces students to the principles and applications of GIS in planetary sciences. It is followed by a tutorial about GIS using QuantumGIS. I have delivered this course every year from 2022 to 2024.
 
 - **Tutorial Series: Remote Sensing of Planetary Surfaces**  
   *Target Audience:* First-year Master's students in Planetology and Space Exploration, Paris-Saclay University.  
-  *Description:* This series of 8 tutorials covers the fundamentals of remote sensing techniques and their application to planetary surface analysis. I have delivered these tutorials annually since 2022.
+  *Description:* This series of 8 tutorials covers the fundamentals of remote sensing techniques and their application to planetary surface analysis. I have delivered these tutorials from 2022 to 2024.
 
 ## Mentoring Activities
 
