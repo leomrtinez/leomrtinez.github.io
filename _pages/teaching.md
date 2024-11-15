@@ -7,8 +7,6 @@ author_profile: true
 
 {% include base_path %}
 
-# Teaching Experience
-
 Since the beginning of my PhD program in October 2022, I have been actively involved in teaching and mentoring. Below is a summary of my teaching activities:
 
 ## Teaching Activities
