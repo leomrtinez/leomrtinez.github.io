@@ -31,4 +31,4 @@ history and evolution.
 
 ## Special thanks
 
-Special thanks to kurzgesagt for their amazing work and their impressive illustrations.
+Special thanks to [kurzgesagt](https://www.youtube.com/channel/UCsXVk37bltHxD1rDPwtNM8Q) for their amazing work and their impressive illustrations.
