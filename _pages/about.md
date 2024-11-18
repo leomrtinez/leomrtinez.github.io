@@ -16,6 +16,15 @@ For now, I have actively contributed to planetary science research through:
 - Publishing 1 peer-reviewed article.  
 - Teaching over 71 hours of advanced courses to Master's students, focusing on Geographic Information Systems (GIS) and remote sensing of planetary surfaces.  
 
+My research focuses on :
+
+- Artificial intelligence
+- Qualitative geomorphology
+- Remote Sensing (data, image, radar…)
+- Mars
+- The Moon
+
+
 I am passionate about pushing forward our understanding of planetary evolution and I'am open to professional opportunities starting October 2025, following my thesis defense.  
 
 
