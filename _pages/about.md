@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-# My research in a nutshell
+## My research in a nutshell
 
 Planetary surfaces undergo continuous transformation
 driven by geological processes like volcanic eruptions and
@@ -29,6 +29,6 @@ history and evolution.
 </p>
 
 
-## Acknowledgment
+### Acknowledgment
 
 Special thanks to [kurzgesagt](https://www.youtube.com/channel/UCsXVk37bltHxD1rDPwtNM8Q) for their amazing work and their impressive illustrations.
