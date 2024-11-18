@@ -74,12 +74,12 @@ redirect_from:
 
 ### Leadership and Outreach
 
+- **Ph.D. student representative** at the GEOPS Laboratory Council (**2022-2024**).
+- Presented at the annual **Fête de la Science**, engaging with primary school students (**2022**, **2023**, **2024**). 
 - **Chair** of the sessions “Mars” at the 55th EPSC-DPS conference (**2023**)
 - Participated at the summer **school RED23**: Rencontres Exobiologiques pour Doctorants (**2023**).
-- Presented at the annual **Fête de la Science**, engaging with primary school students (**2022**, **2023**, **2024**).
-- **Ph.D. student representative** at the GEOPS Laboratory Council (**2022-2024**).  
+- **President, Physics Association of Lyon 1 University** (**2019–2020**)  
 - **Treasurer, English Speaking Society of Bretagne Sud University** (**2016–2017**)  
-- **President, Physics Association of Lyon 1 University** (2019–2020)  
 
 ---
 
