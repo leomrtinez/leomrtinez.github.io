@@ -7,7 +7,9 @@ author_profile: true
 
 {% include base_path %}
 
-During my PhD program, I have been actively involved in teaching and mentoring. Below is a summary of my teaching activities:
+*Last updated on November 2024*
+
+During my PhD program, I have been actively involved in teaching and mentoring. At this day, I gave a total of 64h of teaching lessons. Below is a summary of my teaching activities:
 
 ## Teaching Activities
 
