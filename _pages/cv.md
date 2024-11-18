@@ -75,7 +75,7 @@ redirect_from:
 ### Leadership and Outreach
 
 - **Chair** of the sessions “Mars” at the 55th EPSC-DPS conference (**2023**)
-- Presented at the summer **school RED23**: Rencontres Exobiologiques pour Doctorants (**2023**).
+- Participated at the summer **school RED23**: Rencontres Exobiologiques pour Doctorants (**2023**).
 - Presented at the annual **Fête de la Science**, engaging with primary school students (**2022**, **2023**, **2024**).
 - **Ph.D. student representative** at the GEOPS Laboratory Council (**2022-2024**).  
 - **Treasurer, English Speaking Society of Bretagne Sud University** (**2016–2017**)  
@@ -86,6 +86,7 @@ redirect_from:
 ## Languages
 - **French:** Native  
 - **English:** C1 (TOEIC certified)  
-- **Japanese:** Beginner 
+- **Japanese:** Beginner
+  
 ---
 
