@@ -9,14 +9,14 @@ redirect_from:
 
 ## My Profile  
 
-I am a French PhD student in planetary sciences, currently based at the GEOPS laboratory at Paris-Saclay University, under the supervision of Prof. [Frédéric Schmidt](https://fredericschmidt.github.io) and François Andrieu. My thesis, which should be defended in October 2025, focuses on the development of state-of-the-art algorithms for automatic crater detection and characterization on planetary surfaces such as Mars, Mercury and the Moon.  
+I am a French PhD student in planetary sciences, currently based at the GEOPS laboratory at Paris-Saclay University, under the supervision of Prof. [Frédéric Schmidt](https://fredericschmidt.github.io) and François Andrieu. My thesis, which should be defended in October 2025, focuses on the development of a deep-learning algorithms for **automatic crater detection and characterization** on planetary surfaces such as Mars, Mercury and the Moon.  
 
 For now, I have actively contributed to planetary science research through:  
 - Presenting my work at international conferences, including 7 posters and/or talks.  
-- Publishing 1 peer-reviewed articles.  
+- Publishing 1 peer-reviewed article.  
 - Teaching over 71 hours of advanced courses to Master's students, focusing on Geographic Information Systems (GIS) and remote sensing of planetary surfaces.  
 
-I am passionate about advancing our understanding of planetary evolution and I'm open to new professional opportunities starting October 2025, following my thesis defense.  
+I am passionate about pushing forward our understanding of planetary evolution and I'am open to professional opportunities starting October 2025, following my thesis defense.  
 
 
 ## My research in a nutshell
