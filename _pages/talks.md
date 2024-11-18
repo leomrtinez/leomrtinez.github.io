@@ -5,6 +5,9 @@ permalink: /talks/
 author_profile: true
 ---
 
+*Last updated on November 2024*
+
+
 * **2024** Automatic Crater Datation Code, Europlanet Science Congress (EPSC), Berlin, GERMANY
   
 * **2024** Robust automatic crater detection at all latitudes on Mars using Deep-learning (PNP), Nantes, FRANCE
