@@ -23,3 +23,8 @@ resource for planetary scientists, facilitating the study of
 relative age, geological features distribution and so on,
 enabling a deeper understanding of planetary geological
 history and evolution.
+
+<p align="center">
+<img src="/images/meteor.jpeg" alt="drawing" width="75%" class="center"/>
+</p>
+
