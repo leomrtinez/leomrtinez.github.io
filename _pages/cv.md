@@ -11,9 +11,10 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Ph.D in Artificial Intelligence applied to Planetary Sciences, Paris-Saclay University, 2025 (expected)
+* M.S.c in Planetary Sciences and Space Exploration, Paris-Saclay University, 2022
+* M.S.c in Astrophysics, Claude Bernard Lyon 1 University, 2021
+* B.S.c in Fundamental Physics, South Bretagne University, 2019
 
 Work experience
 ======
