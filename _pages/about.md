@@ -29,6 +29,6 @@ history and evolution.
 </p>
 
 
-## Special thanks
+## Acknowledgment
 
 Special thanks to [kurzgesagt](https://www.youtube.com/channel/UCsXVk37bltHxD1rDPwtNM8Q) for their amazing work and their impressive illustrations.
