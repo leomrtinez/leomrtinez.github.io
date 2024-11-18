@@ -13,7 +13,7 @@ Planetary surfaces undergo continuous transformation
 driven by geological processes like volcanic eruptions and
 impacts. Understanding the distribution of impact craters is
 crutial to have a better comprehension of how planetary
-surfaces envolve through time (Hartmann & Neukum,
+surfaces envolve through time ([Hartmann & Neukum](http://www.dejahvu.net/cydoniahappens/extras/hartmann.pdf),
 Springer, 2001). My research project focus on the development of a
 computer vision algorithm which automatically detect and
 classify craters from planetary surfaces images to create a
