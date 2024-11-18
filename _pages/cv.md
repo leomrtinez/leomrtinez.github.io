@@ -9,57 +9,83 @@ redirect_from:
 
 {% include base_path %}
 
-Education
-======
-* Ph.D in Artificial Intelligence applied to Planetary Sciences, Paris-Saclay University, 2025 (expected)
-* M.S.c in Planetary Sciences and Space Exploration, Paris-Saclay University, 2022
-* M.S.c in Astrophysics, Claude Bernard Lyon 1 University, 2021
-* B.S.c in Fundamental Physics, South Bretagne University, 2019
+*Last updated: November 2024*
 
-Work experience
-======
-* Spring 2024: Academic Pages Collaborator
-  * Github University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+# Curriculum Vitae  
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+## Education
+- **Ph.D. in Artificial Intelligence applied to Planetary Sciences**  
+  Paris-Saclay University, France (2025, expected)  
+  *Thesis Topic:* Automatic Crater Detection and Characterization.  
 
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+- **M.S. in Planetary Sciences and Space Exploration**  
+  Paris-Saclay University, France (2022)  
 
-Publications
-======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+- **M.S. in Astrophysics**  
+  Claude Bernard Lyon 1 University, France (2021)  
+
+- **B.S. in Fundamental Physics**  
+  South Bretagne University, France (2019)  
+    
+
+---
+
+## Work Experience
+
+### Research Experience
+
+- **Research Intern, GEOPS Laboratory, Orsay**  
+  March–August 2022  
+  - 
+- **Research Intern, LGLTPE Laboratory, Lyon**  
+  *March–August 2021*  
+  - 
+ 
+- **Research Intern, IRAP Laboratory, Toulouse**  
+  *March–August 2020*  
+  - 
+
+- **Research Intern, IRAP Laboratory, Toulouse**  
+  *8 weeks 2019*  
+  - 
+
+### Other professional experiences 
+- **Kayak Renting activities**  
+  Summer Job from 2016 to 2018  
+  - 
+---
+
+## Skills
+
+### Computational Expertise
+
+- **Programming Languages:**  
+  - Proficient in Python (NumPy, SciPy, PyTorch, Pandas, Matplotlib).  
+  - Familiar with Fortran and C++ for computational modeling.  
+  - Skilled in Bash shell workflows.  
+
+- **High-Performance Computing:**  
+  - Extensive experience with multi-CPU/GPU cluster environments for numerical simulations.  
+  - Advocates for Free and Open-Source Software for reproducible research.  
+
+- **Software and Tools:**  
+  - GIS Tools: Expert in QGIS, GDAL, and custom planetary data processing pipelines.  
+  - Version Control: Proficient in Git for collaborative projects.  
+
+### Leadership and Outreach
+
+- **Chair** of the sessions “Mars” at the 55th EPSC-DPS conference (**2023**)
+- Presented at the summer **school RED23**: Rencontres Exobiologiques pour Doctorants (**2023**).
+- Presented at the annual **Fête de la Science**, engaging with primary school students (**2022**, **2023**, **2024**).
+- **Ph.D. student representative** at the GEOPS Laboratory Council (**2022-2024**).  
+- **Treasurer, English Speaking Society of Bretagne Sud University** (**2016–2017**)  
+- **President, Physics Association of Lyon 1 University** (2019–2020)  
+
+---
+
+## Languages
+- **French:** Native  
+- **English:** C1 (TOEIC certified)  
+- **Japanese:** Beginner 
+---
+
