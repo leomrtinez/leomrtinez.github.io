@@ -99,17 +99,17 @@ This role highlights my entrepreneurial mindset, organizational skills, and abil
 ### Computational Expertise
 
 - **Programming Languages:**  
-  - Proficient in Python (NumPy, SciPy, PyTorch, Pandas, Matplotlib).  
-  - Familiar with Fortran and C++ for computational modeling.  
-  - Skilled in Bash shell workflows.  
+  - Proficient in **Python** (NumPy, SciPy, PyTorch, Pandas, Matplotlib).  
+  - Familiar with **Fortran** and **C++** for computational modeling.  
+  - Skilled in **Bash** shell workflows.  
 
 - **High-Performance Computing:**  
   - Extensive experience with multi-CPU/GPU cluster environments for numerical simulations.  
   - Advocates for Free and Open-Source Software for reproducible research.  
 
 - **Software and Tools:**  
-  - GIS Tools: Expert in QGIS, GDAL, and custom planetary data processing pipelines.  
-  - Version Control: Proficient in Git for collaborative projects.  
+  - GIS Tools: Expert in **QGIS**, **GDAL**, python library such as **GeoPandas**, **rasterio** and **shapely** and custom planetary data processing pipelines.  
+  - Version Control: Proficient in **Git** for collaborative projects.  
 
 ### Leadership and Outreach
 
