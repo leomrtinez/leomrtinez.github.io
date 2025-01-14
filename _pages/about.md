@@ -14,7 +14,7 @@ I am a French PhD student in planetary sciences, currently based at the GEOPS la
 For now, I have actively contributed to planetary science research through:  
 - Presented my work at international conferences, including 7 posters and/or talks.  
 - Written 2 peer-reviewed articles (1 submitted and 1 in prep.).  
-- Teached over 71 hours of advanced courses to Master's students, focusing on Geographic Information Systems (GIS) and remote sensing of planetary surfaces.  
+- Taught over 71 hours of advanced courses to Master's students, focusing on Geographic Information Systems (GIS) and remote sensing of planetary surfaces.  
 
 My research focuses on :
 
