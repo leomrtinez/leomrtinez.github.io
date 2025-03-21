@@ -13,8 +13,8 @@ I am a French PhD student in planetary sciences, currently based at the GEOPS la
 
 For now, I have actively contributed to planetary science research through:  
 - Presented my work at international conferences, including 7 posters and/or talks.  
-- Written 2 peer-reviewed articles (1 submitted and 1 in prep.).  
-- Taught over 71 hours of advanced courses to Master's students, focusing on Geographic Information Systems (GIS) and remote sensing of planetary surfaces.  
+- Written 2 peer-reviewed articles (1 [published](https://doi.org/10.1016/j.pss.2025.106053) and 1 in prep.).  
+- Taught over 96 hours of advanced courses to Master's students, focusing on Geographic Information Systems (GIS) and remote sensing of planetary surfaces.  
 
 My research focuses on :
 
@@ -22,6 +22,7 @@ My research focuses on :
 - Qualitative geomorphology
 - Remote Sensing (data, image, radar…)
 - Mars and The Moon surfaces
+- Earth observation
 
 
 I am passionate about pushing forward our understanding of planetary evolution and I'am open to professional opportunities starting October 2025, following my thesis defense.  
