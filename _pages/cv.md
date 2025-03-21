@@ -39,7 +39,12 @@ redirect_from:
   October 2022 – Present  
   - **Subject:** Automatic Crater Detection and Characterization
   - **Supervision:** [Frédéric Schmidt](https://fredericschmidt.github.io) and [François Andrieu](https://www.insu.cnrs.fr/fr/personne/francois-andrieu)
-  - During my PhD, I developed an Artificial Intelligence-based computer vision algorithm for the automated detection of craters on the surfaces of Mars and the Moon and the detection of thermokarstic lakes on Earth. This project has equipped me with strong analytical and problem-solving skills across multiple disciplines, including Environmental Sciences, Computer Science, Artificial Intelligence, Data Analysis, Remote Sensing, and Geomorphology. This work aim to the publication of two scientific articles in prestigious journals such as Planetary and Space Science and Icarus, as well as active participation in three major international conferences in the United States, Germany, and Finland. Additionally, this work has given me the opportunity to engage in teaching, delivering courses to MSc students in Planetary Sciences.
+- **Key Contributions:**
+  - Developed an **AI-based computer vision algorithm** for automated crater detection on Mars and the Moon. This algorithm demonstrates results in Earth observation domain as well with the detection of termokarstic lake in Yukon.
+  - Gained expertise in **Environmental Sciences**, **Computer Science**, **AI**, **Data Analysis**, **Remote Sensing**, and **Geomorphology**, applying interdisciplinary approaches to planetary and terrestrial studies.
+  - Contributed to the publication of **two scientific articles** in major scientific journals, advancing automated feature detection in planetary research.
+  - Presented research findings at **three major international conferences** (United States, Germany, Finland), engaging with the scientific community.
+  - Delivered courses to **MSc students in Planetary Sciences**, enhancing knowledge transfer in remote sensing and AI applications.
 
 - **Research Intern, GEOPS Laboratory, Orsay, France**  
   March–August 2022  
