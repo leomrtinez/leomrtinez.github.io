@@ -30,20 +30,8 @@ I am passionate about pushing forward our understanding of planetary evolution a
 
 ## My research in a nutshell
 
-Planetary surfaces undergo continuous transformation
-driven by geological processes like volcanic eruptions and
-impacts. Understanding the distribution of impact craters is
-crutial to have a better comprehension of how planetary
-surfaces envolve through time ([Hartmann & Neukum](http://www.dejahvu.net/cydoniahappens/extras/hartmann.pdf),
-Springer, 2001). My research project focus on the development of a
-computer vision algorithm which automatically detect and
-classify craters from planetary surfaces images to create a
-comprehensive database encompassing crater positions, sizes,
-and their geomorphological characteristics. The database will serve as a valuable
-resource for planetary scientists, facilitating the study of
-relative age, geological features distribution and so on,
-enabling a deeper understanding of planetary geological
-history and evolution.
+During my PhD, I developed an Artificial Intelligence-based computer vision algorithm for the automated detection of craters on the surfaces of Mars and the Moon and the detection of thermokarstic lakes on Earth. This project has equipped me with strong analytical and problem-solving skills across multiple disciplines, including Environmental Sciences, Computer Science, Artificial Intelligence, Data Analysis, Remote Sensing, and Geomorphology. This work aim to the publication of two scientific articles in prestigious journals such as Planetary and Space Science and Icarus, as well as active participation in three major international conferences in the United States, Germany, and Finland. Additionally, this work has given me the opportunity to engage in teaching, delivering courses to MSc students in Planetary Sciences.
+
 
 <p align="center">
 <img src="/images/meteor.jpeg" alt="drawing" width="75%" class="center"/>
