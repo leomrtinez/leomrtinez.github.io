@@ -33,6 +33,6 @@ During my PhD program, I have been actively involved in teaching and mentoring. 
   *Project:* Focused on the re-evaluation of Apollo XI landing site geologic age using a deep-learning-based crater counting algorithm.  
   *Duration:* 8 weeks  
 
-- **January - January 2025:** Supervised one middle school student during an observation internship.  
+- **January 2025:** Supervised one middle school student during an observation internship.  
   *Project:* Crater database construction using a labelization algorithm.  
-  *Duration:* 1 weeks
+  *Duration:* 1 week
