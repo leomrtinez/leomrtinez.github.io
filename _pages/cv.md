@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-*Last updated: December 2024*
+*Last updated: March 2025*
 
 # Curriculum Vitae  
 
