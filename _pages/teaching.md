@@ -7,9 +7,9 @@ author_profile: true
 
 {% include base_path %}
 
-*Last updated on November 2024*
+*Last updated on March 2025*
 
-During my PhD program, I have been actively involved in teaching and mentoring. At this day, I gave a total of 71h of teaching lessons. Below is a summary of my teaching activities:
+During my PhD program, I have been actively involved in teaching and mentoring. At this day, I gave a total of 96h of teaching lessons. Below is a summary of my teaching activities:
 
 ## Teaching Activities
 
@@ -31,4 +31,8 @@ During my PhD program, I have been actively involved in teaching and mentoring. 
 
 - **June - July 2024:** Co-supervised one second-year undergraduate student majoring in Earth, Planetary, and Environmental Sciences.  
   *Project:* Focused on the re-evaluation of Apollo XI landing site geologic age using a deep-learning-based crater counting algorithm.  
-  *Duration:* 8 weeks
+  *Duration:* 8 weeks  
+
+- **January - January 2025:** Supervised one middle school student during an observation internship.  
+  *Project:* Crater database construction using a labelization algorithm.  
+  *Duration:* 1 weeks
