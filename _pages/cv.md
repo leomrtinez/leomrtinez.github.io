@@ -16,7 +16,7 @@ redirect_from:
 ## Education
 - **Ph.D. in Artificial Intelligence applied to Planetary Sciences**  
   Paris-Saclay University, France (2025, expected)  
-  *Thesis Topic:* Automatic Crater Detection and Characterization.
+  *Thesis Topic:* Automatic Crater Detection and Characterization
   *Supervision:* [Frédéric Schmidt](https://fredericschmidt.github.io) and [François Andrieu](https://www.insu.cnrs.fr/fr/personne/francois-andrieu)
 
 - **M.S. in Planetary Sciences and Space Exploration**  
@@ -35,7 +35,13 @@ redirect_from:
 
 ### Research Experience
 
-- **Research Intern, GEOPS Laboratory, Orsay**  
+- **PhD, GEOPS Laboratory, Paris-Saclay University, Orsay, France**  
+  October 2022 – Present  
+  - **Subject:** Automatic Crater Detection and Characterization
+  - **Supervision:** [Frédéric Schmidt](https://fredericschmidt.github.io) and [François Andrieu](https://www.insu.cnrs.fr/fr/personne/francois-andrieu)
+  - During my PhD, I developed an Artificial Intelligence-based computer vision algorithm for the automated detection of craters on the surfaces of Mars and the Moon and the detection of thermokarstic lakes on Earth. This project has equipped me with strong analytical and problem-solving skills across multiple disciplines, including Environmental Sciences, Computer Science, Artificial Intelligence, Data Analysis, Remote Sensing, and Geomorphology. This work aim to the publication of two scientific articles in prestigious journals such as Planetary and Space Science and Icarus, as well as active participation in three major international conferences in the United States, Germany, and Finland. Additionally, this work has given me the opportunity to engage in teaching, delivering courses to MSc students in Planetary Sciences.
+
+- **Research Intern, GEOPS Laboratory, Orsay, France**  
   March–August 2022  
   - **Subject:** Automatic crater detection using computer vision algorithms
   - **Supervision:** [Frédéric Schmidt](https://fredericschmidt.github.io) and [François Andrieu](https://www.insu.cnrs.fr/fr/personne/francois-andrieu)
@@ -45,9 +51,11 @@ redirect_from:
     - Automated data annotation and augmentation to improve the model's performance across diverse planetary terrains.  
     - Validation of the results by comparing detected craters with existing databases, demonstrating significant consistency and robustness.  
     - Development of a Python-based pipeline for end-to-end crater detection, including preprocessing, model training, and post-processing. 
-    - Participation in the bi-annual "Programme National de Planétologie" symposium to present my work with a poster.  
+    - Participation in the bi-annual "Programme National de Planétologie" symposium to present my work with a poster.
+   
+    
 
-- **Research Intern, LGLTPE Laboratory, Lyon**  
+- **Research Intern, LGLTPE Laboratory, Lyon, France**  
   *March–August 2021*  
   - **Subject:** Global-scale classification of Martian datasets using unsupervised machine learning algorithms  
   - **Supervision:** [Cathy Quantin-Nataf](https://eplanets.univ-lyon1.fr/equipe/permanents/cathy-quantin/)  
@@ -59,7 +67,7 @@ redirect_from:
     - Contributed to advancing methodologies for planetary surface mapping, enhancing understanding of Martian surface composition.  
 
  
-- **Research Intern, IRAP Laboratory, Toulouse**  
+- **Research Intern, IRAP Laboratory, Toulouse, France**  
   *March–August 2020*  
   - **Subject:** Looking for seismic doublets at 2.4Hz in InSight/Seis data
   - **Supervision:** [Ludovic Margerin](https://doctorat.univ-toulouse.fr/as/ed/detailResp.pl?resp=14231&site=EDT&ed=178)
@@ -69,7 +77,7 @@ redirect_from:
     - Analyzed frequency spectra and time delays between doublets to infer source characteristics.  
     - Provided insights into the internal structure and seismic activity of Mars based on the detection or non-detection of seismic doublets.  
 
-- **Research Intern, IRAP Laboratory, Toulouse**  
+- **Research Intern, IRAP Laboratory, Toulouse, France**  
   *May-June 2019*  
   - **Subject:** Seismicity of the moon
   - **Supervision:** [Ludovic Margerin](https://doctorat.univ-toulouse.fr/as/ed/detailResp.pl?resp=14231&site=EDT&ed=178)
@@ -81,7 +89,7 @@ redirect_from:
   
 
 ### Other professional experiences 
-- **Seasonal Manager, Kayak Rental Spot**  
+- **Seasonal Manager, Kayak Rental Spot, Arradon, France**  
    *Summers 2016–2018*
     - For [Armor Evasion](https://www.armorevasion.com).  
     - Managed all aspects of a kayak rental business, from daily operations to long-term strategy.  
