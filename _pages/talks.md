@@ -9,12 +9,14 @@ author_profile: true
 
 # 2025
 
+* **Automatic Crater Detection and Characterization ** (Talk), 16th Planetary Crater Consortium, Boulder, USA
 
 * **Panoram'IA**, Online podcast available on [YouTube](https://www.youtube.com/live/HzWf7cm9W3s?feature=shared&t=1386)
 
 * **Automatic Crater classification** (Poster + Talk), 3rd Deep-learning for Science Days (JDLS), Paris, FRANCE
 
 # 2024
+
 * **Automatic Crater Datation Code**, Europlanet Science Congress (EPSC), Berlin, GERMANY
   
 * **Robust automatic crater detection at all latitudes on Mars using Deep-learning**, Programme National de Planétologie (PNP), Nantes, FRANCE
