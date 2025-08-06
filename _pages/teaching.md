@@ -40,3 +40,9 @@ During my PhD program, I have been actively involved in teaching and mentoring. 
 - **June - July 2025:** Co-supervised one first-year MSc student majoring in Earth, Planetary, and Environmental Sciences.  
   *Project:* Automatic Thermokarstic lake in Yukon using segmentation algorithms.  
   *Duration:* 8 week
+
+## Other  
+
+- **Mars & May 2025:** Organisation and coordination of introductory astronomy days for elementary school students (4th and 5th grade), including solar observation workshops.
+
+
