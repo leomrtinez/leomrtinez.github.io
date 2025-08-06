@@ -13,9 +13,9 @@ author_profile: true
   
 * **Automatic Crater Detection and Characterization** (Talk), 16th Planetary Crater Consortium, Boulder, USA
 
-* **Panoram'IA**, Online podcast available on [YouTube](https://www.youtube.com/live/HzWf7cm9W3s?feature=shared&t=1386)
+* **Panoram'IA — July 2025**, Online podcast available on [YouTube](https://www.youtube.com/live/HzWf7cm9W3s?feature=shared&t=1386)
 
-* **Automatic Crater classification** (Poster + Talk), 3rd Deep-learning for Science Days (JDLS), Paris, FRANCE
+* **Automatic Crater Classification** (Poster + Talk), 3rd Deep-learning for Science Days (JDLS), Paris, FRANCE
 
 # 2024
 
