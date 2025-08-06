@@ -9,7 +9,7 @@ author_profile: true
 
 # 2025
 
-* **Automatic Crater Detection and Characterization ** (Talk), 16th Planetary Crater Consortium, Boulder, USA
+* **Automatic Crater Detection and Characterization** (Talk), 16th Planetary Crater Consortium, Boulder, USA
 
 * **Panoram'IA**, Online podcast available on [YouTube](https://www.youtube.com/live/HzWf7cm9W3s?feature=shared&t=1386)
 
