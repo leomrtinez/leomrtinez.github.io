@@ -7,7 +7,7 @@ author_profile: true
 
 {% include base_path %}
 
-*Last updated on March 2025*
+*Last updated on August 2025*
 
 During my PhD program, I have been actively involved in teaching and mentoring. At this day, I gave a total of 96h of teaching lessons. Below is a summary of my teaching activities:
 
@@ -35,4 +35,8 @@ During my PhD program, I have been actively involved in teaching and mentoring. 
 
 - **January 2025:** Supervised one middle school student during an observation internship.  
   *Project:* Crater database construction using a labelization algorithm.  
-  *Duration:* 1 week
+  *Duration:* 1 week  
+
+- **June - July 2025:** Co-supervised one first-year MSc student majoring in Earth, Planetary, and Environmental Sciences.  
+  *Project:* Automatic Thermokarstic lake in Yukon using segmentation algorithms.  
+  *Duration:* 8 week
