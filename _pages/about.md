@@ -7,10 +7,6 @@ redirect_from:
   - /about.html
 ---
 
-## PhD defense: 
-
-I will defend my PhD on the **6th of October 2025**. The defense will be available on the following [link](https://universite-paris-saclay-fr.zoom.us/j/93874359215?pwd=8HtlagOW527a09Ha36V3OxPGl9F8BY.1). 
-
 ## My Profile  
 
 I am a PhD student in planetary sciences, currently based at the GEOPS laboratory at Paris-Saclay University, under the supervision of Prof. [Frédéric Schmidt](https://fredericschmidt.github.io) and [François Andrieu](https://www.insu.cnrs.fr/fr/personne/francois-andrieu). My thesis, which will be defended on the **6th of October 2025**, focuses on the development of a **deep-learning algorithm for automatic crater detection and characterization** on planetary surfaces such as Mars, Mercury and the Moon.  
