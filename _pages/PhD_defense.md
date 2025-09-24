@@ -13,10 +13,10 @@ I am pleased to announce the public defense of my doctoral thesis, conducted und
 
 ---
 
-**Date & Time:**  
+### Date & Time:
 6 October 2025, 2:00 PM (Paris time, UTC+2)  
 
-**Location:**  
+### Location:  
 [Blandin Amphitheater](https://maps.app.goo.gl/AgZ5aw3tUPTGKppXA)   
 Laboratoire de Physique des Solides   
 1 rue Nicolas Appert, Bâtiment 510  
@@ -26,7 +26,7 @@ Laboratoire de Physique des Solides
 
 The defense is open to all, and everyone is warmly welcome to attend either in person or online.  
 
-**Public Zoom link:**  
+### Public Zoom link:
 [Join the defense here](https://universite-paris-saclay-fr.zoom.us/j/93874359215pwd=8HtlagOW527a09Ha36V3OxPGl9F8BY.1)
 
 ---
