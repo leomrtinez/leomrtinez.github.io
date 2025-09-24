@@ -30,6 +30,19 @@ The defense is open to all, and everyone is warmly welcome to attend either in p
 [Join the defense here](https://universite-paris-saclay-fr.zoom.us/j/93874359215pwd=8HtlagOW527a09Ha36V3OxPGl9F8BY.1)
 
 ---
+## Composition du Jury: 
+
+➡️ **Frédéric SCHMIDT**, Directreur de thèse  
+➡️ **François ANDRIEU**, Co-directreur de thèse  
+➡️ **Stéphane LE MOUELIC**, Rapporteur   
+➡️ **Marc HUERTAS-COMPANY**, Rapporteur   
+➡️ **Sylvain BOULEY**, Examinateur  
+➡️ **Cathy QUANTIN-NATAF**, Examinatrice   
+➡️ **Myriam LEMELIN**, Examinatrice  
+
+---
+
+
 
 ## 📖 Résumé (Français)
 
