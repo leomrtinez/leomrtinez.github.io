@@ -9,12 +9,12 @@ redirect_from:
 
 {% include base_path %}
 
-I am pleased to announce the public defense of my doctoral thesis, conducted under the supervision of **Professor Frédéric Schmidt** and **Dr. François Andrieu** at **GEOPS (Université Paris-Saclay)**.
+I am pleased to announce the public defense of my doctoral thesis, conducted under the supervision of **Pr. Frédéric Schmidt** and **Dr. François Andrieu** at **GEOPS (Université Paris-Saclay)**.
 
 ---
 
 **Date & Time:**  
-6 October 2025, 2:00 PM (Paris time)  
+6 October 2025, 2:00 PM (Paris time, UTC+2)  
 
 **Location:**  
 Blandin Amphitheater  
