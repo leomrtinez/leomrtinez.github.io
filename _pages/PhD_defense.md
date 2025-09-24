@@ -17,8 +17,8 @@ I am pleased to announce the public defense of my doctoral thesis, conducted und
 6 October 2025, 2:00 PM (Paris time, UTC+2)  
 
 **Location:**  
-Blandin Amphitheater  
-Laboratoire de Physique des Solides  
+[Blandin Amphitheater](https://maps.app.goo.gl/AgZ5aw3tUPTGKppXA)   
+Laboratoire de Physique des Solides   
 1 rue Nicolas Appert, Bâtiment 510  
 91405 Orsay Cedex – France  
 
@@ -30,15 +30,15 @@ The defense is open to all, and everyone is warmly welcome to attend either in p
 [Join the defense here](https://universite-paris-saclay-fr.zoom.us/j/93874359215pwd=8HtlagOW527a09Ha36V3OxPGl9F8BY.1)
 
 ---
-## Composition du Jury: 
+### Jury Members: 
 
-➡️ **Frédéric SCHMIDT**, Directreur de thèse  
-➡️ **François ANDRIEU**, Co-directreur de thèse  
-➡️ **Stéphane LE MOUELIC**, Rapporteur   
-➡️ **Marc HUERTAS-COMPANY**, Rapporteur   
-➡️ **Sylvain BOULEY**, Examinateur  
-➡️ **Cathy QUANTIN-NATAF**, Examinatrice   
-➡️ **Myriam LEMELIN**, Examinatrice  
+➲ **Frédéric SCHMIDT**, Directreur de thèse  
+➲ **François ANDRIEU**, Co-directreur de thèse  
+➲ **Stéphane LE MOUELIC**, Rapporteur   
+➲ **Marc HUERTAS-COMPANY**, Rapporteur   
+➲ **Sylvain BOULEY**, Examinateur  
+➲ **Cathy QUANTIN-NATAF**, Examinatrice   
+➲ **Myriam LEMELIN**, Examinatrice  
 
 ---
 
