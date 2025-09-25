@@ -22,12 +22,15 @@ Laboratoire de Physique des Solides
 1 rue Nicolas Appert, Bâtiment 510  
 91405 Orsay Cedex – France  
 
-<iframe 
-  src="https://maps.google.com/maps?q=1%20Rue%20Nicolas%20Appert%2C%2091405%20Orsay&t=&z=16&ie=UTF8&iwloc=&output=embed"
-  width="500" height="281"
-  style="border:0; border-radius:12px; box-shadow:0 2px 6px rgba(0,0,0,0.2);"
-  loading="lazy" allowfullscreen>
-</iframe>
+<div style="max-width:500px; width:100%; margin:0;">
+  <div style="position:relative; width:100%; padding-bottom:56.25%; height:0; overflow:hidden; border-radius:12px; box-shadow:0 2px 6px rgba(0,0,0,0.2);">
+    <iframe
+      src="https://maps.google.com/maps?q=1%20Rue%20Nicolas%20Appert%2C%2091405%20Orsay&t=&z=16&ie=UTF8&iwloc=&output=embed"
+      style="position:absolute; top:0; left:0; width:100%; height:100%; border:0;"
+      loading="lazy" allowfullscreen>
+    </iframe>
+  </div>
+</div>
 
 ---
 
@@ -36,7 +39,7 @@ The defense is open to all, and everyone is warmly welcome to attend either in p
 ### Public Zoom link:
 
 <a class="btn btn--primary btn--small" href="https://universite-paris-saclay-fr.zoom.us/j/93874359215pwd=8HtlagOW527a09Ha36V3OxPGl9F8BY.1" target="_blank" rel="noopener">
-  🎥 Join via Zoom
+  Join via Zoom
 </a>
 
 ---
