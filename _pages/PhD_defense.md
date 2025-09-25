@@ -17,9 +17,9 @@ I am pleased to announce the public defense of my doctoral thesis, conducted und
 6 October 2025, 2:00 PM (Paris time, UTC+2)  
 
 ### Location:  
-[Blandin Amphitheater](https://maps.app.goo.gl/AgZ5aw3tUPTGKppXA)   
-Laboratoire de Physique des Solides   
-1 rue Nicolas Appert, Bâtiment 510  
+**Blandin Amphitheater**     
+[Laboratoire de Physique des Solides   
+1 rue Nicolas Appert, Bâtiment 510](https://maps.app.goo.gl/AgZ5aw3tUPTGKppXA)       
 91405 Orsay Cedex – France  
 
 <div style="max-width:500px; width:100%; margin:0;">
