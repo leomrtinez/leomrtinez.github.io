@@ -22,6 +22,15 @@ Laboratoire de Physique des Solides
 1 rue Nicolas Appert, Bâtiment 510  
 91405 Orsay Cedex – France  
 
+<iframe 
+  src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2638.3001922710157!2d2.182097676968759!3d48.69912297131009!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47e67701b2af65b3%3A0x7bfe8e7d7f2571bb!2sLaboratoire%20de%20Physique%20des%20Solides%2C%201%20Rue%20Nicolas%20Appert%2C%2091405%20Orsay%2C%20France!5e0!3m2!1sfr!2sfr!4v1727277312345!5m2!1sfr!2sfr" 
+  width="600" 
+  height="450" 
+  style="border:0;" 
+  allowfullscreen="" 
+  loading="lazy" 
+  referrerpolicy="no-referrer-when-downgrade">
+</iframe>
 ---
 
 The defense is open to all, and everyone is warmly welcome to attend either in person or online.  
