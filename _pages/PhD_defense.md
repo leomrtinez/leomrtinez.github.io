@@ -22,7 +22,9 @@ I am pleased to announce the public defense of my doctoral thesis, conducted und
      target="_blank" rel="noopener"
      style="flex:1; min-width:200px; text-align:center; padding:10px 14px; border-radius:8px; background:#34a853; color:#fff; text-decoration:none; font-weight:600; font-family:system-ui, -apple-system, Segoe UI, Roboto, Arial, sans-serif;">
     📅 Add to Google Calendar
-  </a>
+  </a>   
+
+  
   <a href="https://outlook.live.com/calendar/0/deeplink/compose?subject=PhD%20Defense%20L%C3%A9o%20Martinez&body=PhD%20Defense%20under%20the%20supervision%20of%20Prof.%20Fr%C3%A9d%C3%A9ric%20Schmidt%20and%20Dr.%20Fran%C3%A7ois%20Andrieu%20at%20GEOPS%20(Universit%C3%A9%20Paris-Saclay).%20Join%20via%20Zoom:%20https%3A%2F%2Funiversite-paris-saclay-fr.zoom.us%2Fj%2F93874359215pwd%3D8HtlagOW527a09Ha36V3OxPGl9F8BY.1&startdt=2025-10-06T12:00:00Z&enddt=2025-10-06T16:00:00Z&location=Amphith%C3%A9%C3%A2tre%20Blandin%2C%20Laboratoire%20de%20Physique%20des%20Solides%2C%201%20Rue%20Nicolas%20Appert%2C%2091405%20Orsay%20Cedex%2C%20France"
      target="_blank" rel="noopener"
      style="flex:1; min-width:200px; text-align:center; padding:10px 14px; border-radius:8px; background:#0b5cff; color:#fff; text-decoration:none; font-weight:600; font-family:system-ui, -apple-system, Segoe UI, Roboto, Arial, sans-serif;">
