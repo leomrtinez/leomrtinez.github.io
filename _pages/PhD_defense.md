@@ -17,10 +17,11 @@ I am pleased to announce the public defense of my doctoral thesis, conducted und
 6 October 2025, 2:00 PM (Paris time, UTC+2)    
 **Add to calendar:**  
 
-[📅 Google](https://calendar.google.com/calendar/render?action=TEMPLATE&text=PhD+Defense+Léo+Martinez&dates=20251006T120000Z/20251006T160000Z&details=PhD+Defense+under+the+supervision+of+Prof.+Frédéric+Schmidt+and+Dr.+François+Andrieu+at+GEOPS+(Université+Paris-Saclay).+Join+via+Zoom:+https://universite-paris-saclay-fr.zoom.us/j/93874359215pwd=8HtlagOW527a09Ha36V3OxPGl9F8BY.1&location=Amphithéâtre+Blandin,+Laboratoire+de+Physique+des+Solides,+1+Rue+Nicolas+Appert,+91405+Orsay+Cedex,+France)  
-[📅 Outlook](https://outlook.live.com/calendar/0/deeplink/compose?subject=PhD%20Defense%20Léo%20Martinez&body=PhD%20Defense%20under%20the%20supervision%20of%20Prof.%20Frédéric%20Schmidt%20and%20Dr.%20François%20Andrieu%20at%20GEOPS%20(Université%20Paris-Saclay).%20Join%20via%20Zoom:%20https://universite-paris-saclay-fr.zoom.us/j/93874359215pwd=8HtlagOW527a09Ha36V3OxPGl9F8BY.1&startdt=2025-10-06T12:00:00Z&enddt=2025-10-06T16:00:00Z&location=Amphithéâtre%20Blandin,%20Laboratoire%20de%20Physique%20des%20Solides,%201%20Rue%20Nicolas%20Appert,%2091405%20Orsay%20Cedex,%20France)  
-[📅 Apple Calendar](https://www.google.com/calendar/render?action=TEMPLATE&text=PhD+Defense+Léo+Martinez&dates=20251006T120000Z/20251006T160000Z&details=PhD%20Defense...&location=Orsay) 
-
+<a href="https://calendar.google.com/calendar/render?action=TEMPLATE&text=PhD+Defense+Léo+Martinez&dates=20251006T120000Z/20251006T160000Z&details=PhD+Defense+under+the+supervision+of+Prof.+Frédéric+Schmidt+and+Dr.+François+Andrieu+at+GEOPS+(Université+Paris-Saclay).+Join+via+Zoom:+https://universite-paris-saclay-fr.zoom.us/j/93874359215pwd=8HtlagOW527a09Ha36V3OxPGl9F8BY.1&location=Amphithéâtre+Blandin,+Laboratoire+de+Physique+des+Solides,+1+Rue+Nicolas+Appert,+91405+Orsay+Cedex,+France"
+   target="_blank" rel="noopener"
+   style="display:inline-block;padding:8px 14px;border-radius:8px;background:#34a853;color:#fff;text-decoration:none;font-weight:600;font-family:system-ui, -apple-system, Segoe UI, Roboto, Arial, sans-serif;">
+  📅 Add to Google Calendar
+</a>
 
 
 ### Location:  
