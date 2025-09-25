@@ -22,7 +22,7 @@ Laboratoire de Physique des Solides
 1 rue Nicolas Appert, Bâtiment 510  
 91405 Orsay Cedex – France  
 
-<div style="max-width:800px; margin:auto; position:relative; padding-bottom:56.25%; height:0; overflow:hidden; border-radius:12px; box-shadow:0 2px 6px rgba(0,0,0,0.2);">
+<div style="max-width:500px; margin:auto; position:relative; padding-bottom:56.25%; height:0; overflow:hidden; border-radius:12px; box-shadow:0 2px 6px rgba(0,0,0,0.2);">
   <iframe 
     src="https://maps.google.com/maps?q=1%20Rue%20Nicolas%20Appert%2C%2091405%20Orsay&t=&z=16&ie=UTF8&iwloc=&output=embed"
     style="position:absolute; top:0; left:0; width:100%; height:100%; border:0;"
