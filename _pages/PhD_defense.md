@@ -37,7 +37,7 @@ The defense is open to all, and everyone is warmly welcome to attend either in p
 ### Public Zoom link:
 
 <a class="btn btn--primary btn--small" href="https://universite-paris-saclay-fr.zoom.us/j/93874359215pwd=8HtlagOW527a09Ha36V3OxPGl9F8BY.1" target="_blank" rel="noopener">
-  Join via Zoom
+  🎥 Join via Zoom
 </a>
 
 ---
