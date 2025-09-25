@@ -34,11 +34,11 @@ The defense is open to all, and everyone is warmly welcome to attend either in p
 
 ➲ **[Frédéric SCHMIDT](https://fredericschmidt.github.io)**, Directreur de thèse  
 ➲ **[François ANDRIEU](https://www.idref.fr/19359854X)**, Co-directreur de thèse  
-➲ **[Stéphane LE MOUELIC](https://lpg-umr6112.fr/member/le-mouelic-stephane/)**, Rapporteur   
 ➲ **[Marc HUERTAS-COMPANY](https://mhuertascompany.github.io)**, Rapporteur   
-➲ **[Sylvain BOULEY](https://www.iufrance.fr/les-membres-de-liuf/membre/2071.html)**, Examinateur  
-➲ **[Cathy QUANTIN-NATAF](https://eplanets.univ-lyon1.fr/equipe/permanents/cathy-quantin/)**, Examinatrice   
+➲ **[Stéphane LE MOUELIC](https://lpg-umr6112.fr/member/le-mouelic-stephane/)**, Rapporteur
+➲ **[Sylvain BOULEY](https://www.iufrance.fr/les-membres-de-liuf/membre/2071.html)**, Examinateur     
 ➲ **[Myriam LEMELIN](https://www.usherbrooke.ca/geomatique/departement/personnel/personnel-enseignant/myriam-lemelin)**, Examinatrice  
+➲ **[Cathy QUANTIN-NATAF](https://eplanets.univ-lyon1.fr/equipe/permanents/cathy-quantin/)**, Examinatrice   
 
 ---
 
