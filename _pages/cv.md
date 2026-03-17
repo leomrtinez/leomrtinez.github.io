@@ -36,7 +36,7 @@ redirect_from:
 ### Research Experience
 
 
-- **Researsh Engineer, GEOPS Laboratory, Paris-Saclay University, Orsay, France**  
+- **Postdoctoral Fellow, Sherbrooke University, Sherbrooke, Quebec, Canada**  
   January 2025 – Present  
 
 
