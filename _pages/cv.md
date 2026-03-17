@@ -35,8 +35,16 @@ redirect_from:
 
 ### Research Experience
 
+
+- **Researsh Engineer, GEOPS Laboratory, Paris-Saclay University, Orsay, France**  
+  January 2025 – Present  
+
+
+- **Researsh Engineer, GEOPS Laboratory, Paris-Saclay University, Orsay, France**  
+  October 2025 – December 2025  
+  
 - **PhD, GEOPS Laboratory, Paris-Saclay University, Orsay, France**  
-  October 2022 – Present  
+  October 2022 – October 2025  
   - **Subject:** Automatic Crater Detection and Characterization
   - **Supervision:** [Frédéric Schmidt](https://fredericschmidt.github.io) and [François Andrieu](https://www.insu.cnrs.fr/fr/personne/francois-andrieu)
 - **Key Contributions:**
