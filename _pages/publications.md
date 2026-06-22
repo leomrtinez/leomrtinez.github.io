@@ -38,8 +38,10 @@ author_profile: true
 
 <!-- Popup -->
 <div id="thesisModal" class="modal">
-  <span class="close" onclick="closeThesis()">&times;</span>
-  
-  <iframe id="thesisFrame"></iframe>
+  <div class="modal-content">
+    <span class="close" onclick="closeThesis()">&times;</span>
+
+    <iframe id="thesisFrame"></iframe>
+  </div>
 </div>
 
