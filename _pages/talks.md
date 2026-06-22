@@ -56,7 +56,7 @@ author_profile: true
 <div class="poster-gallery">
   
   <div class="poster-item">
-    <a href="/files/Poster_PNP_Martinez.png" target="_blank">
+    <a href="/files/Poster_PNP_Martinez.pdf" target="_blank">
       <img src="/files/Poster_PNP_2022_miniature.png" alt="Poster JDLS 2025">
     </a>
     <p class="caption">
