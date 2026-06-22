@@ -40,7 +40,6 @@ author_profile: true
 <div id="thesisModal" class="modal">
   <div class="modal-content">
     <span class="close" onclick="closeThesis()">&times;</span>
-
     <iframe id="thesisFrame"></iframe>
   </div>
 </div>
