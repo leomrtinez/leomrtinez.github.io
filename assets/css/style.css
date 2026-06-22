@@ -1,6 +1,10 @@
 /* Personnalisation */
 
 .poster-gallery {
+  border: 5px solid red;
+}
+
+.poster-gallery {
   display: grid;
   grid-template-columns: repeat(3, 1fr);
   gap: 20px;
