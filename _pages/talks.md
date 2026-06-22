@@ -30,11 +30,11 @@ author_profile: true
 
 # 2024
 
-* [**Automatic Crater Datation Code**](https://doi.org/10.5194/epsc2024-1005), Europlanet Science Congress (EPSC), Berlin, GERMANY
+* [**Automatic crater detection and classification using Faster R-CNN**](https://doi.org/10.5194/epsc2024-1005), Europlanet Science Congress (EPSC), Berlin, GERMANY
   
 * **Robust automatic crater detection at all latitudes on Mars using Deep-learning**, Programme National de Planétologie (PNP), Nantes, FRANCE
   
-* **Automatic crater detection and classification using Faster R-CNN** (Poster + Talk), 2nd Deep-learning for Science Days (JDLS), Paris, FRANCE
+* **Automatic Crater Datation Code** (Poster + Talk), 2nd Deep-learning for Science Days (JDLS), Paris, FRANCE
   
 * **Automatic crater detection and classification using Faster R-CNN**, Earth and Planets Origin and Evolution (EPOE), Paris, FRANCE
 
