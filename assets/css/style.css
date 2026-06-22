@@ -5,13 +5,7 @@
 
 /* Personnalisation */
 
----
----
-@import "main";
 
-/* ================================
-   Galerie de posters (3 colonnes)
-   ================================ */
 
 .poster-gallery {
   display: grid;
