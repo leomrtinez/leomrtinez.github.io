@@ -15,22 +15,30 @@ layout: compress
 
   <script>
   function openThesis() {
-  document.getElementById("thesisFrame").src = "/files/Martinez_PhD_compressed_compressed.pdf";
-  document.getElementById("thesisModal").style.display = "block";
+    const modal = document.getElementById("thesisModal");
+    const frame = document.getElementById("thesisFrame");
+  
+    frame.src = "/files/Martinez_PhD_compressed_compressed.pdf";
+    modal.classList.add("active");
   }
-
+  
   function closeThesis() {
-  document.getElementById("thesisModal").style.display = "none";
-  document.getElementById("thesisFrame").src = "";
+    const modal = document.getElementById("thesisModal");
+    const frame = document.getElementById("thesisFrame");
+  
+    modal.classList.remove("active");
+    frame.src = "";
   }
-
-  /* fermer en cliquant en dehors */
-  window.onclick = function(event) {
-  const modal = document.getElementById("thesisModal");
-  if (event.target === modal) {
-    closeThesis();
+  
+  /* fermeture clic extérieur */
+  document.addEventListener("click", function(event) {
+    const modal = document.getElementById("thesisModal");
+    const content = document.querySelector(".modal-content");
+  
+    if (modal.classList.contains("active") && !content.contains(event.target)) {
+      closeThesis();
     }
-  }
+  });
   </script>
 
 
