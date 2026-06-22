@@ -48,9 +48,9 @@
   }
 }
 
-/* Overlay */
+/* Overlay (fond sombre) */
 .modal {
-  display: none;
+  display: none; /* ✅ IMPORTANT */
   position: fixed;
   z-index: 2000;
   top: 0;
@@ -58,17 +58,15 @@
   width: 100vw;
   height: 100vh;
   background-color: rgba(0,0,0,0.75);
-
-  display: flex;
-  align-items: center;
-  justify-content: center;
 }
 
-/* Conteneur du PDF */
+/* Contenu centré */
 .modal-content {
   background: white;
   width: min(1000px, 90vw);
-  height: 90vh;
+  height: 80vh;
+  margin: auto;
+  margin-top: 5vh;
   border-radius: 10px;
   box-shadow: 0 10px 40px rgba(0,0,0,0.4);
   position: relative;
@@ -93,9 +91,6 @@
   z-index: 10;
 }
 
-.close:hover {
-  color: #000;
-}
 
 
 ``
