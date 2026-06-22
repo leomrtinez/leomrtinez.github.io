@@ -19,6 +19,18 @@ author_profile: true
 
 * **L. Martinez**, F. Schmidt, F. Andrieu and M. Bentley, “Automatic crater classification using deep-learning”, JGR Machine Learning & Computation, Jun. 2026, doi: [10.1029/2025JH000737](https://doi.org/10.1029/2025JH000737)
 
-## Thesis 
 
-* **L. Martinez**, "AC/DC : Automatic Crater Detection and Characterization", Université Paris-Saclay, 2025, [link](https://hal.science/tel-05405266v1)
+## Thesis
+
+<p>
+  <strong>L. Martinez</strong>, "AC/DC : Automatic Crater Detection and Characterization",
+  Université Paris-Saclay, 2025
+</p>
+
+<p>
+  <button class="btn-thesis" onclick="openThesis()">
+    📄 View thesis
+  </button>
+  |
+  <a href="/files/ma_these.pdf" target="_blank">Download PDF</a>
+</p>
