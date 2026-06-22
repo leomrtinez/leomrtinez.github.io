@@ -48,9 +48,9 @@
   }
 }
 
-/* Overlay (fond sombre) */
+/* Overlay */
 .modal {
-  display: none; /* ✅ IMPORTANT */
+  display: none; /* caché par défaut */
   position: fixed;
   z-index: 2000;
   top: 0;
@@ -58,15 +58,22 @@
   width: 100vw;
   height: 100vh;
   background-color: rgba(0,0,0,0.75);
+
+  /* centrage parfait */
+  align-items: center;
+  justify-content: center;
 }
 
-/* Contenu centré */
+/* quand visible */
+.modal.active {
+  display: flex;
+}
+
+/* boîte principale */
 .modal-content {
   background: white;
   width: min(1000px, 90vw);
-  height: 80vh;
-  margin: auto;
-  margin-top: 5vh;
+  height: 85vh;
   border-radius: 10px;
   box-shadow: 0 10px 40px rgba(0,0,0,0.4);
   position: relative;
@@ -90,7 +97,6 @@
   cursor: pointer;
   z-index: 10;
 }
-
 
 
 ``
