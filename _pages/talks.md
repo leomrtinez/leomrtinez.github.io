@@ -12,7 +12,7 @@ author_profile: true
 
 ## 2026
 
-* [**Morphopy: A new tool for impact crater morphological analyses**](https://www.epsc2026.eu), Europlanet Science Congress (EPSC), Den Hague, NETHERLANDS, 
+* [**Morphopy: A new tool for impact crater morphological analyses**](https://www.epsc2026.eu), Europlanet Science Congress (EPSC), Den Hague, NETHERLANDS 
 
 * **MorphoPy: an AI-enabled post-processing framework for automated impact crater morphometric analysis**, 17th Planetary Crater Consortium, Flagstaff, USA
 
