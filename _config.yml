@@ -25,9 +25,9 @@ author:
   name             : "Léo Martinez"
   pronouns         : # example: "she/her"  
   bio              : "Postdoc Resercher in Planetary Science"
-  location         : "Sherbrooke, Qc, Canada"
+  location         : "Canada"
   employer         : "Sherbrooke University"
-  uri              : # URL
+  url              : # URL
   email            : "leonard.martinez@usherbrooke.ca" 
 
   # Academic websites
