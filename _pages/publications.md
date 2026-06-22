@@ -34,3 +34,12 @@ author_profile: true
   |
   <a href="/files/Martinez_PhD_compressed_compressed.pdf" target="_blank">Download PDF</a>
 </p>
+
+
+<!-- Popup -->
+<div id="thesisModal" class="modal">
+  <span class="close" onclick="closeThesis()">&times;</span>
+  
+  <iframe id="thesisFrame"></iframe>
+</div>
+
