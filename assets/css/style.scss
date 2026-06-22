@@ -1,0 +1,32 @@
+---
+---
+
+@import "main";
+
+/* 🔽 Ton CSS personnalisé ici */
+.poster-gallery {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 20px;
+  justify-content: center;
+}
+
+.poster-item {
+  width: 220px;
+  text-align: center;
+}
+
+.poster-item img {
+  width: 100%;
+  border-radius: 8px;
+  transition: transform 0.2s;
+}
+
+.poster-item img:hover {
+  transform: scale(1.05);
+}
+
+.caption {
+  font-size: 0.9em;
+  margin-top: 8px;
+}
