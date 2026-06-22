@@ -32,5 +32,5 @@ author_profile: true
     📄 View thesis
   </button>
   |
-  <a href="/files/ma_these.pdf" target="_blank">Download PDF</a>
+  <a href="/files/Martinez_PhD_compressed_compressed.pdf" target="_blank">Download PDF</a>
 </p>
