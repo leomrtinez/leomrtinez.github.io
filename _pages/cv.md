@@ -15,8 +15,8 @@ redirect_from:
 
 ## Education
 - **Ph.D. in Artificial Intelligence applied to Planetary Sciences**  
-  Paris-Saclay University, France (2025, expected)  
-  *Thesis Topic:* Automatic Crater Detection and Characterization
+  Paris-Saclay University, France (2025)  
+  *Thesis Topic:* [Automatic Crater Detection and Characterization](https://hal.science/tel-05405266v1)
   *Supervision:* [Frédéric Schmidt](https://fredericschmidt.github.io) and [François Andrieu](https://www.insu.cnrs.fr/fr/personne/francois-andrieu)
 
 - **M.S. in Planetary Sciences and Space Exploration**  
@@ -36,7 +36,7 @@ redirect_from:
 ### Research Experience
 
 
-- **Postdoctoral Fellow, Sherbrooke University, Sherbrooke, Quebec, Canada**  
+- **Postdoctoral Fellowship, Sherbrooke University, Sherbrooke, Quebec, Canada**  
   January 2025 – Present  
 
 
