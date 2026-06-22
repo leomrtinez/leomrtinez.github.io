@@ -47,4 +47,60 @@
     grid-template-columns: 1fr;
   }
 }
+
+/* =====================
+   THESIS POPUP
+   ===================== */
+
+/* bouton */
+.btn-thesis {
+  background: #007acc;
+  color: white;
+  padding: 10px 15px;
+  border-radius: 8px;
+  border: none;
+  cursor: pointer;
+  font-size: 1em;
+}
+
+.btn-thesis:hover {
+  background: #005f99;
+}
+
+/* overlay */
+.modal {
+  display: none;
+  position: fixed;
+  z-index: 2000;
+  left: 0;
+  top: 0;
+  width: 100%;
+  height: 100%;
+  background-color: rgba(0,0,0,0.85);
+}
+
+/* PDF */
+.modal iframe {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  width: 85%;
+  height: 90%;
+  transform: translate(-50%, -50%);
+  border: none;
+  border-radius: 8px;
+  background: white;
+}
+
+/* bouton fermer */
+.close {
+  position: absolute;
+  top: 20px;
+  right: 35px;
+  color: white;
+  font-size: 40px;
+  cursor: pointer;
+}
+``
+
 ``
