@@ -5,11 +5,22 @@ permalink: /talks/
 author_profile: true
 ---
 
-*Last updated on August 2025*
+*Last updated on June 2026*
+
+
+
+# 2026
+
+* [**Morphopy: A new tool for impact crater morphological analyses**](https://www.epsc2026.eu), Europlanet Science Congress (EPSC), Den Hague, NETHERLANDS, 
+
+* **MorphoPy: an AI-enabled post-processing framework for automated impact crater morphometric analysis** (Talk), 17th Planetary Crater Consortium, Flagstaff, USA
+
 
 # 2025
 
-* **Automatic Pipeline for Crater Detection and Characterization**, Europlanet Science Congress (EPSC), Helsinki, FINLAND
+* **AC/DC: Automatic Crater Detection and Characterization**, PhD Defense, Orsay, FRANCE
+
+* [**Automatic Pipeline for Crater Detection and Characterization**](https://doi.org/10.5194/epsc-dps2025-294), Europlanet Science Congress (EPSC), Helsinki, FINLAND
   
 * **Automatic Crater Detection and Characterization** (Talk), 16th Planetary Crater Consortium, Boulder, USA
 
@@ -19,7 +30,7 @@ author_profile: true
 
 # 2024
 
-* **Automatic Crater Datation Code**, Europlanet Science Congress (EPSC), Berlin, GERMANY
+* [**Automatic Crater Datation Code**](https://doi.org/10.5194/epsc2024-1005), Europlanet Science Congress (EPSC), Berlin, GERMANY
   
 * **Robust automatic crater detection at all latitudes on Mars using Deep-learning**, Programme National de Planétologie (PNP), Nantes, FRANCE
   
