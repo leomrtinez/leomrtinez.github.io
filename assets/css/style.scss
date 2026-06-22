@@ -4,30 +4,67 @@
 @import "main";
 
 /* Personnalisation */
+
+---
+---
+@import "main";
+
+/* ================================
+   Galerie de posters (3 colonnes)
+   ================================ */
+
 .poster-gallery {
-  display: flex;
-  flex-wrap: wrap;
+  display: grid;
+  grid-template-columns: repeat(3, 1fr); /* 3 colonnes */
   gap: 20px;
-  justify-content: center;
+  justify-items: center;
+  margin-top: 20px;
 }
 
 .poster-item {
-  width: 220px;
   text-align: center;
 }
 
+/* Images des posters */
 .poster-item img {
-  max-width: 200px;
+  max-width: 200px; /* taille limite */
   width: 100%;
+  height: auto;
   border-radius: 8px;
-  transition: transform 0.2s;
+  transition: transform 0.2s ease;
 }
 
+/* Effet au survol */
 .poster-item img:hover {
   transform: scale(1.05);
 }
 
+/* Texte sous le poster */
 .caption {
   font-size: 0.9em;
   margin-top: 8px;
+  line-height: 1.3;
+}
+
+.caption strong {
+  display: block;
+  font-weight: bold;
+}
+
+/* ================================
+   Responsive
+   ================================ */
+
+/* Tablette (2 colonnes) */
+@media (max-width: 900px) {
+  .poster-gallery {
+    grid-template-columns: repeat(2, 1fr);
+  }
+}
+
+/* Mobile (1 colonne) */
+@media (max-width: 600px) {
+  .poster-gallery {
+    grid-template-columns: 1fr;
+  }
 }
