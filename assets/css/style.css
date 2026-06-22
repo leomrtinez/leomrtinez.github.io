@@ -84,8 +84,8 @@
   position: absolute;
   top: 50%;
   left: 50%;
-  width: 85%;
-  height: 90%;
+  width: 80vw;   /* largeur = 80% de l'écran */
+  height: 80vh;  /* hauteur = 80% de l'écran */
   transform: translate(-50%, -50%);
   border: none;
   border-radius: 8px;
