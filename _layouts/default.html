@@ -13,6 +13,27 @@ layout: compress
     <link rel="stylesheet" href="{{ '/assets/css/style.css' | relative_url }}">
   </head>
 
+  <script>
+  function openThesis() {
+  document.getElementById("thesisFrame").src = "/files/ma_these.pdf";
+  document.getElementById("thesisModal").style.display = "block";
+  }
+
+  function closeThesis() {
+  document.getElementById("thesisModal").style.display = "none";
+  document.getElementById("thesisFrame").src = "";
+  }
+
+  /* fermer en cliquant en dehors */
+  window.onclick = function(event) {
+  const modal = document.getElementById("thesisModal");
+  if (event.target === modal) {
+    closeThesis();
+    }
+  }
+  </script>
+
+
   <body>
 
     {% include browser-upgrade.html %}
