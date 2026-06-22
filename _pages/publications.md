@@ -11,7 +11,7 @@ author_profile: true
 
 {% include base_path %}
 
-*Last updated on August 2025*
+*Last updated on June 2026*
 
 * **L. Martinez**, F. Schmidt, F. Andrieu, M. Bentley and H. Talbot, “Robust automatic crater detection at all latitudes on Mars with Deep-learning”, Planetary and Space Science, vol. 260, Jun. 2025, doi: [10.1016/j.pss.2025.106053](https://doi.org/10.1016/j.pss.2025.106053)
 
