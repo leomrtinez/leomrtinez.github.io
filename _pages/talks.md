@@ -28,6 +28,8 @@ author_profile: true
 
 * **Automatic Crater Classification** (Poster + Talk), 3rd Deep-learning for Science Days (JDLS), Paris, FRANCE
 
+<a href="/files/Poster_JDLS2025.pdf" target="_blank">  <img src="/files/Poster_JDLS2025_miniature.png" alt="Poster" width="300"></a>
+
 # 2024
 
 * [**Automatic crater detection and classification using Faster R-CNN**](https://doi.org/10.5194/epsc2024-1005), Europlanet Science Congress (EPSC), Berlin, GERMANY
