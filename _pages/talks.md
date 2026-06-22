@@ -8,15 +8,16 @@ author_profile: true
 *Last updated on June 2026*
 
 
+# Oral presentations 
 
-# 2026
+## 2026
 
 * [**Morphopy: A new tool for impact crater morphological analyses**](https://www.epsc2026.eu), Europlanet Science Congress (EPSC), Den Hague, NETHERLANDS, 
 
 * **MorphoPy: an AI-enabled post-processing framework for automated impact crater morphometric analysis** (Talk), 17th Planetary Crater Consortium, Flagstaff, USA
 
 
-# 2025
+## 2025
 
 * **AC/DC: Automatic Crater Detection and Characterization**, PhD Defense, Orsay, FRANCE
 
@@ -28,9 +29,7 @@ author_profile: true
 
 * **Automatic Crater Classification** (Poster + Talk), 3rd Deep-learning for Science Days (JDLS), Paris, FRANCE
 
-<a href="/files/Poster_JDLS2025.pdf" target="_blank">  <img src="/files/Poster_JDLS2025_miniature.png" alt="Poster" width="300"></a>
-
-# 2024
+## 2024
 
 * [**Automatic crater detection and classification using Faster R-CNN**](https://doi.org/10.5194/epsc2024-1005), Europlanet Science Congress (EPSC), Berlin, GERMANY
   
@@ -40,12 +39,38 @@ author_profile: true
   
 * **Automatic crater detection and classification using Faster R-CNN**, Earth and Planets Origin and Evolution (EPOE), Paris, FRANCE
 
-# 2023
+## 2023
 
 * **Automatic Crater Detection Algorithm**, AI and Space Exploration symposium, Paris, FRANCE 
 
 * **Robust Automatic Crater Detection Using AI**, Join Meeting Europlanet Science Congress - Departement of Planetary Sciences (EPSC-DPS), San-Antonio, USA
 
-# 2022
+## 2022
 
 * **Re-analysis of Martian geological eras using unsupervised learning algorithms**. (Poster), Programme National de Planétologie (PNP), Lyon, FRANCE 
+
+
+# Poster gallery 
+-> Click to visualise
+
+<div class="poster-gallery">
+  <div class="poster-item">
+    <a href="/files/Poster_JDLS2025.pdf" target="_blank">
+      <img src="/files/Poster_JDLS2025_miniature.png" alt="Poster JDLS 2025">
+    </a>
+    <p class="caption">
+      <strong>JDLS 2025:</strong> Automatic Crater Classification – patati, patata
+    </p>
+  </div>
+
+  <!-- Exemple pour ajouter un autre poster -->
+  <!--
+  <div class="poster-item">
+    <a href="/files/autreautre.png" alt="Poster EPSC 2023
+      <strong>EPSC 2023:</strong> description...
+    </p>
+  </div>
+  -->
+</div>
+
+
