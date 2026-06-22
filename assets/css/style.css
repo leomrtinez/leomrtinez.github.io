@@ -48,6 +48,11 @@
   }
 }
 
+
+body {
+  background: red !important;
+}
+
 /* Overlay */
 .modal {
   display: none; /* caché par défaut */
