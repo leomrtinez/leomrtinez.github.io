@@ -14,6 +14,12 @@ redirect_from:
 
 I am a Postdoctoral Associate in the [Applied Geomatics](https://www.usherbrooke.ca/geomatique/) Department of the [Sherbrooke University](https://www.usherbrooke.ca) (Quebec, Canada 🇨🇦) working in the [GEODES](https://geodes.recherche.usherbrooke.ca/en/) research group led by [Myriam Lemelin](https://www.usherbrooke.ca/geomatique/departement/personnel/personnel-enseignant/myriam-lemelin). My work is at the intersection of **planetary sciences** and **artificial intelligence**.
 
+<p align="center">
+<img src="/images/artemis_flyby.jpg" alt="drawing" width="75%" class="center"/>
+</p>
+
+
+
 ## My Background
 
 I hold a Ph.D. in Planetary Sciences from [Paris-Saclay University](http://www.universite-paris-saclay.fr), where my research focused on the automatic detection and characterization of impact craters using artificial intelligence. I made my PhD  under the supervision of Prof. [Frédéric Schmidt](https://fredericschmidt.github.io) and [François Andrieu](https://www.insu.cnrs.fr/fr/personne/francois-andrieu). Prior to that, I completed my Master’s degree in [Planetary Sciences and Space Exploration](https://www.master-planeto.universite-paris-saclay.fr) at the same institution, where I built a strong foundation across planetary science disciplines.
