@@ -54,23 +54,33 @@ author_profile: true
 -> Click to visualise
 
 <div class="poster-gallery">
+  
   <div class="poster-item">
-    <a href="/files/Poster_JDLS2025.pdf" target="_blank">
-      <img src="/files/Poster_JDLS2025_miniature.png" alt="Poster JDLS 2025">
+    <a href="/files/Poster_PNP_Martinez.png" target="_blank">
+      <img src="/files/Poster_PNP_2022_miniature.png" alt="Poster JDLS 2025">
+    </a>
+    <p class="caption">
+      <strong>Programme National de Planétologie 2022 :</strong> Automatic Crater Classification – patati, patata
+    </p>
+  </div>
+
+  <div class="poster-item">
+    <a href="/files/Poster_EPOE_2024.pdf" target="_blank">
+      <img src="/files/Poster_EPOE_2024_miniature.png" alt="Poster JDLS 2025">
     </a>
     <p class="caption">
       <strong>JDLS 2025:</strong> Automatic Crater Classification – patati, patata
     </p>
   </div>
 
-  <!-- Exemple pour ajouter un autre poster -->
-  <!--
   <div class="poster-item">
-    <a href="/files/autreautre.png" alt="Poster EPSC 2023
-      <strong>EPSC 2023:</strong> description...
-    </p>
-  </div>
-  -->
+      <a href="/files/Poster_JDLS2025.pdf" target="_blank">
+        <img src="/files/Poster_JDLS2025_miniature.png" alt="Poster JDLS 2025">
+      </a>
+      <p class="caption">
+        <strong>JDLS 2025:</strong> Automatic Crater Classification – patati, patata
+      </p>
+    </div>
 </div>
 
 
