@@ -7,7 +7,7 @@
 
   <!-- Auteurs -->
   <p class="pub-authors">
-    {{ entry.author }}
+    {{ entry.author_array | join: ", " }}
   </p>
 
   <!-- Journal + date -->
