@@ -34,5 +34,5 @@ for entry in entries:
     html_output += "</div>\n"
 
 # Écrire dans ton site
-with open("_layouts/publications_generated.html", "w") as f:
+with open("_includes/publications_generated.html", "w") as f:
     f.write(html_output)
