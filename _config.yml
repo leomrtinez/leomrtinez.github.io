@@ -236,8 +236,6 @@ scholar:
   details_layout: publication
   details_link: Details
 
-  query: "@*"
-
 sass:
   style: compressed
 
