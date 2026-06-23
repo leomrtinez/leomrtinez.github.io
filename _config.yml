@@ -238,6 +238,8 @@ scholar:
 
   query: "@*"
 
+sass:
+  style: compressed
 
 
 # These settings control the types of collections used by the template
