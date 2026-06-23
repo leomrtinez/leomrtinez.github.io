@@ -219,6 +219,26 @@ kramdown:
   smart_quotes: lsquo,rsquo,ldquo,rdquo
   enable_coderay: false
 
+# biblio
+scholar:
+  style: apa
+  locale: en
+
+  source: ./_bibliography
+  bibliography: my_bibliography.bib
+
+  bibliography_template: custom
+
+  sort_by: year
+  order: descending
+
+  details_dir: publications
+  details_layout: publication
+  details_link: Details
+
+  query: "@*"
+
+
 
 # These settings control the types of collections used by the template
 collections:
