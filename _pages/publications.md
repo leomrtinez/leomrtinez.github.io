@@ -15,7 +15,8 @@ author_profile: true
 
 ## Scientific Articles
 
-{% bibliography %}
+{% include publications_generated.html %}
+
 
 ## Thesis
 
