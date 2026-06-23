@@ -1,11 +1,46 @@
-- name: Install dependencies
-  run: bundle install
+name: Build and deploy Jekyll site
 
-- name: Install Python deps
-  run: pip install bibtexparser
+on:
+  push:
+    branches:
+      - master   # ✅ adapte si besoin
 
-- name: Generate publications
-  run: python scripts/generate_publications.py
+jobs:
+  build:
+    runs-on: ubuntu-latest
 
-- name: Build site
-  run: bundle exec jekyll build
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Setup Ruby
+        uses: ruby/setup-ruby@v1
+        with:
+          ruby-version: '3.1'
+
+      - name: Install Ruby dependencies
+        run: bundle install
+
+      # ✅ AJOUT PYTHON
+      - name: Install Python deps
+        run: pip install bibtexparser
+
+      - name: Generate publications
+        run: python scripts/generate_publications.py
+
+      - name: Build site
+        run: bundle exec jekyll build
+
+      - name: Upload artifact
+        uses: actions/upload-pages-artifact@v3
+
+  deploy:
+    needs: build
+    runs-on: ubuntu-latest
+    permissions:
+      pages: write
+      id-token: write
+
+    steps:
+      - name: Deploy to GitHub Pages
+        uses: actions/deploy-pages@v4
