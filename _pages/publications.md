@@ -13,7 +13,7 @@ author_profile: true
 
 *Last updated on June 2026*
 
-## Scientific Articles
+## Articles
 
 {% bibliography %}
 
