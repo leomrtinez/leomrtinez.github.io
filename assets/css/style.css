@@ -55,7 +55,7 @@
 .modal {
   display: none; /* caché par défaut */
   position: fixed;
-  z-index: 2000;
+  z-index: 9999;
   top: 0;
   left: 0;
   width: 100vw;
