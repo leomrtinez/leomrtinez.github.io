@@ -6,14 +6,18 @@ with open("_bibliography/my_bibliography.bib") as bibfile:
 
 entries = bib_database.entries
 
-# Trier par année décroissante
+# Trier par année (desc)
 entries = sorted(entries, key=lambda x: x.get("year", "0"), reverse=True)
 
 html_output = ""
 
 for entry in entries:
     title = entry.get("title", "No title")
+
     authors = entry.get("author", "").replace(" and ", ", ")
+
+    authors = authors.replace("L. Martinez", "<strong>L. Martinez</strong>")
+
     journal = entry.get("journal", "")
     year = entry.get("year", "")
     month = entry.get("month", "")
@@ -23,16 +27,18 @@ for entry in entries:
 <div class="publication-item">
   <p class="pub-title"><strong>{title}</strong></p>
   <p class="pub-authors">{authors}</p>
-  <p class="pub-venue">{journal}, {month} {year}</p>
-"""
+  <p class="pub-venue">{journal}, {month} {year}</p>"""
 
     if doi:
         html_output += f"""
-  <a href="https://doi.org/{doi}" target="_blank" class="doi-button">DOI</a>
+  https://doi.org/{doi}DOI</a>"""
+
+    html_output += """
+</div>
 """
 
-    html_output += "</div>\n"
-
-# Écrire dans ton site
+# Écriture
 with open("_includes/publications_generated.html", "w") as f:
     f.write(html_output)
+
+print("✅ Publications générées proprement")
