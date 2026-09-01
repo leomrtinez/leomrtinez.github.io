@@ -1,0 +1,79 @@
+/* ==========================================================================
+   Publication list
+   Consumed by _includes/publications_generated.html, which is produced by
+   scripts/generate_publications.py from _bibliography/my_bibliography.bib.
+
+   Install: save as _sass/_publications.scss and add
+       @import "publications";
+   at the end of the import block in assets/css/main.scss.
+   ========================================================================== */
+
+.publication-item {
+  margin-bottom: 1.6em;
+
+  p {
+    margin: 0 0 0.2em;
+    line-height: 1.45;
+  }
+}
+
+.pub-title {
+  font-weight: 700;
+  font-size: 1em;
+}
+
+.pub-authors {
+  font-size: 0.9em;
+
+  strong {
+    /* The site owner's name; kept bold but not recoloured, so the emphasis
+       reads as authorship rather than as a link. */
+    font-weight: 700;
+  }
+}
+
+.pub-venue {
+  font-size: 0.85em;
+  color: mix($text-color, $background-color, 65%);
+}
+
+.pub-links {
+  margin-top: 0.5em !important;
+}
+
+/* Bordered link badge, sized to sit on the same baseline as the venue line. */
+.pub-badge {
+  display: inline-block;
+  padding: 0.15em 0.7em;
+  border: 1px solid mix($link-color, $background-color, 45%);
+  border-radius: 3px;
+  font-size: 0.75em;
+  font-weight: 600;
+  letter-spacing: 0.02em;
+  line-height: 1.6;
+  color: $link-color;
+  text-decoration: none;
+  transition: background-color 0.15s ease, border-color 0.15s ease;
+
+  & + .pub-badge {
+    margin-left: 0.4em;
+  }
+
+  &:hover,
+  &:focus {
+    background-color: mix($link-color, $background-color, 8%);
+    border-color: $link-color;
+    text-decoration: none;
+  }
+
+  &:focus-visible {
+    outline: 2px solid $link-color;
+    outline-offset: 2px;
+  }
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .pub-badge {
+    transition: none;
+  }
+}
