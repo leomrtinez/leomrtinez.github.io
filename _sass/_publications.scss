@@ -111,7 +111,12 @@
   position: relative;
   display: flex;
   flex-direction: column;
-  width: min(1000px, 100%);
+  /* LibSass (sassc, used by jekyll-sass-converter 2.x) treats min() and max()
+     as Sass functions rather than passing the CSS ones through, and rejects
+     mixed units. Expressed with max-width instead so it compiles on both
+     LibSass and Dart Sass. */
+  width: 100%;
+  max-width: 1000px;
   height: 94vh;
   background-color: $background-color;
   border-radius: 4px;
