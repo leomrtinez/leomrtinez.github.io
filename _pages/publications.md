@@ -18,30 +18,15 @@ pdf_viewer: true
 
 {% include publications_generated.html %}
 
-
 ## Thesis
 
-<p>
-  <strong>L. Martinez</strong>, "AC/DC : Automatic Crater Detection and Characterization",
-  Université Paris-Saclay, 2025
-</p>
-
-<p>
-  <button class="btn-thesis" onclick="openThesis()">
-    📄 View thesis
-  </button>
-  |
-  <a href="/files/Martinez_PhD_compressed_compressed.pdf" target="_blank">Download PDF</a>
-</p>
-
-
-<!-- Popup -->
-<div id="thesisModal" class="modal">
-  <div class="modal-content">
-    <span class="close" onclick="closeThesis()">&times;</span>
-    <iframe id="thesisFrame"></iframe>
-  </div>
+<div class="publication-item">
+  <p class="pub-title">AC/DC: Automatic Crater Detection and Characterization</p>
+  <p class="pub-authors"><strong>L. Martinez</strong></p>
+  <p class="pub-venue">PhD thesis, Université Paris-Saclay, 2025</p>
+  <p class="pub-links">
+    <a class="pub-badge" href="{{ base_path }}/files/Martinez_PhD_compressed_compressed.pdf"
+       data-pdf-viewer
+       data-pdf-title="AC/DC: Automatic Crater Detection and Characterization">PDF</a>
+  </p>
 </div>
-
-``
-
