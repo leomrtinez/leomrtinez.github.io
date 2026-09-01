@@ -3,6 +3,7 @@ layout: single
 title: "Publications"
 permalink: /publications/
 author_profile: true
+pdf_viewer: true
 ---
 
 {% if site.author.googlescholar %}
