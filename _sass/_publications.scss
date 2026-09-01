@@ -8,6 +8,10 @@
    at the end of the import block in assets/css/main.scss.
    ========================================================================== */
 
+/* The theme sets ".page__content p, li, dl { font-size: 1em; }" in _page.scss,
+   a (0,1,1) selector. Bare .pub-* classes are (0,1,0) and lose to it, so every
+   size below is nested inside .publication-item to reach (0,2,0). Do not
+   flatten these rules back out, and do not reach for !important instead. */
 .publication-item {
   margin-bottom: 1.6em;
 
@@ -15,30 +19,39 @@
     margin: 0 0 0.2em;
     line-height: 1.45;
   }
-}
 
-.pub-title {
-  font-weight: 700;
-  font-size: 1em;
-}
-
-.pub-authors {
-  font-size: 0.9em;
-
-  strong {
-    /* The site owner's name; kept bold but not recoloured, so the emphasis
-       reads as authorship rather than as a link. */
+  .pub-title {
     font-weight: 700;
+    font-size: 1em;
   }
-}
 
-.pub-venue {
-  font-size: 0.85em;
-  color: mix($text-color, $background-color, 65%);
-}
+  .pub-authors {
+    font-size: 0.9em;
 
-.pub-links {
-  margin-top: 0.5em !important;
+    /* The site owner's name; bold but not recoloured, so the emphasis reads as
+       authorship rather than as a link. */
+    strong {
+      font-weight: 700;
+    }
+  }
+
+  .pub-venue {
+    font-size: 0.85em;
+    color: mix($text-color, $background-color, 65%);
+  }
+
+  .pub-links {
+    margin-top: 0.5em;
+  }
+
+  /* Attribution required by the article's Creative Commons licence. Sits under
+     the link badges, deliberately small: it is a legal notice, not content. */
+  .pub-license {
+    margin-top: 0.35em;
+    font-size: 0.68em;
+    line-height: 1.3;
+    color: mix($text-color, $background-color, 50%);
+  }
 }
 
 /* Bordered link badge, sized to sit on the same baseline as the venue line. */
