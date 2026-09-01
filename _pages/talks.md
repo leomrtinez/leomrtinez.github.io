@@ -77,6 +77,15 @@ author_profile: true
         <strong>JDLS 2025:</strong> Automatic Crater Classification – Poster presented during the Deep-learning for Science days in Paris in 2025
       </p>
     </div>
+
+    <div class="poster-item">
+      <a href="/files/marl2089_EPSC_2026.pdf" target="_blank">
+        <img src="/files/Poster_EPSC2026_miniature.png" alt="Poster JDLS 2025">
+      </a>
+      <p class="caption">
+        <strong>JDLS 2025:</strong> Automatic Crater Classification – Poster presented during the 2026 edition of the Europlanet Science Conference in Berlin
+      </p>
+    </div>
 </div>
 
 
