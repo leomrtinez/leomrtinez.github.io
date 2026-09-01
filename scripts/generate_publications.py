@@ -152,7 +152,7 @@ def render_entry(entry: dict) -> str:
         href = html.escape(pdf, quote=True)
         badges.append(
             f'<a class="pub-badge" href="{href}" data-pdf-viewer '
-            f'data-pdf-title="{title}">PDF</a>'
+            f'data-pdf-title="{title}">Full text</a>'
         )
     if entry.get("url", "").strip():
         url = html.escape(entry["url"].strip(), quote=True)
