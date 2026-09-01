@@ -12,14 +12,14 @@ author_profile: true
 
 ## 2026
 
-* [**Morphopy: A new tool for impact crater morphological analyses**](https://www.epsc2026.eu), Europlanet Science Congress (EPSC), Den Hague, NETHERLANDS 
+* [**Morphopy: A new tool for impact crater morphological analyses**](https://doi.org/10.5194/epsc2026-726), Europlanet Science Congress (EPSC), Den Hague, NETHERLANDS 
 
 * **MorphoPy: an AI-enabled post-processing framework for automated impact crater morphometric analysis**, 17th Planetary Crater Consortium, Flagstaff, USA
 
 
 ## 2025
 
-* **AC/DC: Automatic Crater Detection and Characterization**, PhD Defense, Orsay, FRANCE
+* [**AC/DC: Automatic Crater Detection and Characterization**](https://leomrtinez.github.io/files/Martinez_PhD_compressed_compressed.pdf), PhD Defense, Orsay, FRANCE
 
 * [**Automatic Pipeline for Crater Detection and Characterization**](https://doi.org/10.5194/epsc-dps2025-294), Europlanet Science Congress (EPSC), Helsinki, FINLAND
   
