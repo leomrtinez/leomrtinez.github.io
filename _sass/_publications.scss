@@ -72,9 +72,13 @@
   }
 }
 
+/* Attribution required by the article's Creative Commons licence. Sits under
+   the link badges, deliberately small: it is a legal notice, not content. */
 .pub-license {
-  font-size: 0.75em;
-  color: mix($text-color, $background-color, 55%);
+  margin-top: 0.35em !important;
+  font-size: 0.68em;
+  line-height: 1.3;
+  color: mix($text-color, $background-color, 50%);
 }
 
 @media (prefers-reduced-motion: reduce) {
