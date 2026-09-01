@@ -5,7 +5,7 @@ permalink: /talks/
 author_profile: true
 ---
 
-*Last updated on June 2026*
+*Last updated on August 2026*
 
 
 # Oral presentations 
