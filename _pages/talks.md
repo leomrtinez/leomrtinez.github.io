@@ -83,7 +83,7 @@ author_profile: true
         <img src="/files/Poster_EPSC2026_miniature.png" alt="Poster JDLS 2025">
       </a>
       <p class="caption">
-        <strong>JDLS 2025:</strong> Automatic Crater Classification – Poster presented during the 2026 edition of the Europlanet Science Conference in Berlin
+        <strong>EPSC 2026:</strong> MorphoPy: A New Tool For Impact Crater Morphological Analyses – Poster presented during the 2026 edition of the Europlanet Science Conference in Berlin
       </p>
     </div>
 </div>
