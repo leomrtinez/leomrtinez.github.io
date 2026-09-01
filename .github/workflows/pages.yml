@@ -1,0 +1,85 @@
+name: Build and deploy site
+
+# Replaces both the legacy "GitHub Pages build from branch" pipeline (which pins
+# the github-pages gem to Jekyll 3.10 and cannot satisfy this Gemfile) and the
+# earlier .github/workflows/jekyll.yml. Only one workflow must publish to the
+# github-pages environment, otherwise concurrent deployments race each other.
+#
+# Manual step, done once and not versionable:
+#   Settings > Pages > Build and deployment > Source: "GitHub Actions"
+
+on:
+  push:
+    branches: [master]
+  workflow_dispatch:
+
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+
+# Queue deployments instead of cancelling one mid-publish.
+concurrency:
+  group: pages
+  cancel-in-progress: false
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      # --- Publication list -------------------------------------------------
+      # Regenerated from the BibTeX file on every build, so _bibliography is the
+      # single source of truth and the committed include cannot silently drift.
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Generate publication list
+        run: |
+          pip install "bibtexparser>=1.4,<2.0"
+          python scripts/generate_publications.py
+
+      # Guards against a silent failure mode: a malformed .bib parses to zero
+      # entries, the script writes an empty file, and the page deploys blank.
+      - name: Check the generated list is not empty
+        run: |
+          grep -q 'class="pub-badge"' _includes/publications_generated.html \
+            || { echo "::error::No publication badges were generated."; exit 1; }
+
+      # --- Site -------------------------------------------------------------
+      - uses: ruby/setup-ruby@v1
+        with:
+          ruby-version: "3.2"
+          bundler-cache: true   # bundle install + cache, keyed on Gemfile.lock
+
+      - uses: actions/configure-pages@v5
+
+      - name: Build site
+        env:
+          JEKYLL_ENV: production
+        run: bundle exec jekyll build --trace
+
+      # Catches broken internal links and malformed markup before publishing -
+      # the class of bug that produced the orphaned </a> tag. Non-blocking for
+      # now; drop "continue-on-error" once the existing warnings are cleared.
+      - name: Check output
+        continue-on-error: true
+        run: |
+          bundle exec htmlproofer ./_site \
+            --disable-external \
+            --allow-hash-href \
+            --ignore-empty-alt
+
+      - uses: actions/upload-pages-artifact@v3
+
+  deploy:
+    needs: build
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - id: deployment
+        uses: actions/deploy-pages@v4
