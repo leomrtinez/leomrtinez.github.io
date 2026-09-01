@@ -33,14 +33,14 @@ layout: default
         {% if page.modified %}
           <p class="page__date"><strong><i class="fa fa-fw fa-calendar" aria-hidden="true"></i> {{ site.data.ui-text[site.locale].date_label | default: "Published:" }}</strong> <time datetime="{{ page.modified | date: "%Y-%m-%d" }}">{{ page.modified | date: "%B %d, %Y" }}</time></p>
         {% endif %}
-        
+
         {% if page.collection == 'teaching' %}
           <p> {{ page.type }}, <i>{{ page.venue }}</i>, {{ page.date | default: "1900-01-01" | date: "%Y" }} </p>
         {% elsif page.venue and page.date %}
           <p>Published in <i>{{ page.venue }}</i>, {{ page.date | default: "1900-01-01" | date: "%Y" }} </p>
         {% elsif page.date %}
           <p class="page__date"><strong><i class="fa fa-fw fa-calendar" aria-hidden="true"></i> {{ site.data.ui-text[site.locale].date_label | default: "Published:" }}</strong> <time datetime="{{ page.date | date_to_xmlschema }}">{{ page.date | default: "1900-01-01" | date: "%B %d, %Y" }}</time></p>
-        {% endif %}    
+        {% endif %}
         </header>
       {% endunless %}
 
@@ -93,3 +93,13 @@ layout: default
     </div>
   {% endif %}
 </div>
+
+{% comment %}
+  Inline PDF viewer for the publication list. Loaded only on pages that opt in
+  with "pdf_viewer: true" in their front matter, so the script is not shipped
+  on every page of the site. The markup it operates on (#pdf-modal) is emitted
+  by scripts/generate_publications.py into _includes/publications_generated.html.
+{% endcomment %}
+{% if page.pdf_viewer %}
+  <script src="{{ base_path }}/assets/js/pdf-viewer.js" defer></script>
+{% endif %}
