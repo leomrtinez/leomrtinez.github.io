@@ -12,7 +12,7 @@ pdf_viewer: true
 
 {% include base_path %}
 
-*Last updated on June 2026*
+*Last updated on August 2026*
 
 ## Scientific Articles
 
