@@ -41,6 +41,10 @@
   }
 
   .pub-links {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: flex-start;
+    gap: 0.4em;
     margin-top: 0.5em;
   }
 
@@ -68,10 +72,6 @@
   text-decoration: none;
   transition: background-color 0.15s ease, border-color 0.15s ease;
 
-  & + .pub-badge {
-    margin-left: 0.4em;
-  }
-
   &:hover,
   &:focus {
     background-color: mix($link-color, $background-color, 8%);
@@ -92,6 +92,78 @@
   font-size: 0.68em;
   line-height: 1.3;
   color: mix($text-color, $background-color, 50%);
+}
+
+/* --------------------------------------------------------------------------
+   BibTeX "Cite" disclosure
+   -------------------------------------------------------------------------- */
+
+/* A native <details>: the panel opens without JavaScript and is keyboard
+   accessible for free. Only the copy button needs a script. */
+.pub-cite {
+  summary {
+    /* Removes the disclosure triangle so <summary> reads as a badge. */
+    list-style: none;
+    cursor: pointer;
+
+    &::-webkit-details-marker {
+      display: none;
+    }
+  }
+
+  /* Once open the BibTeX record is far wider than a badge, so the disclosure
+     claims a full row of the flex container instead of stretching it. */
+  &[open] {
+    flex-basis: 100%;
+  }
+}
+
+.pub-cite__body {
+  position: relative;
+  margin-top: 0.5em;
+
+  pre {
+    margin: 0;
+    padding: 0.8em 1em;
+    overflow-x: auto;
+    font-size: 0.72em;
+    line-height: 1.5;
+    background-color: mix($text-color, $background-color, 4%);
+    border: 1px solid mix($text-color, $background-color, 12%);
+    border-radius: 3px;
+  }
+
+  code {
+    background: none;
+    border: 0;
+    padding: 0;
+    white-space: pre;
+  }
+}
+
+.pub-cite__copy {
+  position: absolute;
+  top: 0.5em;
+  right: 0.5em;
+  z-index: 1;
+  padding: 0.1em 0.6em;
+  border: 1px solid mix($link-color, $background-color, 45%);
+  border-radius: 3px;
+  background-color: $background-color;
+  font-size: 0.7em;
+  font-weight: 600;
+  color: $link-color;
+  cursor: pointer;
+
+  &:hover,
+  &:focus-visible {
+    background-color: mix($link-color, $background-color, 8%);
+  }
+
+  &.is-copied {
+    color: mix($text-color, $background-color, 70%);
+    border-color: mix($text-color, $background-color, 30%);
+  }
 }
 
 @media (prefers-reduced-motion: reduce) {
