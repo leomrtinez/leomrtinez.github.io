@@ -13,35 +13,6 @@ layout: compress
     <link rel="stylesheet" href="{{ '/assets/css/style.css' | relative_url }}">
   </head>
 
-  <script>
-  function openThesis() {
-    const modal = document.getElementById("thesisModal");
-    const frame = document.getElementById("thesisFrame");
-  
-    frame.src = "/files/Martinez_PhD_compressed_compressed.pdf";
-    modal.classList.add("active");
-  }
-  
-  function closeThesis() {
-    const modal = document.getElementById("thesisModal");
-    const frame = document.getElementById("thesisFrame");
-  
-    modal.classList.remove("active");
-    frame.src = "";
-  }
-  
-  /* fermeture clic extérieur */
-  document.addEventListener("click", function(event) {
-    const modal = document.getElementById("thesisModal");
-    const content = document.querySelector(".modal-content");
-  
-    if (modal.classList.contains("active") && !content.contains(event.target)) {
-      closeThesis();
-    }
-  });
-  </script>
-
-
   <body>
 
     {% include browser-upgrade.html %}
