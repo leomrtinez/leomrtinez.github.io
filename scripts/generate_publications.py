@@ -98,6 +98,47 @@ def format_authors(raw: str, surname: str = HIGHLIGHT_SURNAME) -> str:
     return ", ".join(rendered)
 
 
+#: Fields reproduced in the "Cite" panel, in the order they are emitted.
+#: Bookkeeping fields used only by this site (pdf, license, selected,
+#: google_scholar_id) are deliberately excluded: pasting them into someone
+#: else's .bib would add noise their own tooling has to strip.
+CITE_FIELDS = (
+    "author", "title", "journal", "booktitle", "school", "year", "month",
+    "volume", "number", "pages", "doi", "publisher", "url",
+)
+
+
+def format_bibtex(entry: dict) -> str:
+    """Re-serialise an entry as a clean, self-contained BibTeX record.
+
+    The source .bib is not echoed verbatim: it carries site-specific fields and
+    inconsistent formatting. Rebuilding from the parsed entry guarantees that
+    what a visitor copies is valid and minimal.
+    """
+    entry_type = entry.get("ENTRYTYPE", "article")
+    key = entry.get("ID", "unknown")
+
+    fields = [(f, entry[f].strip()) for f in CITE_FIELDS
+              if entry.get(f, "").strip()]
+    if not fields:
+        return ""
+
+    width = max(len(f) for f, _ in fields)
+    lines = [f"@{entry_type.capitalize()}{{{key},"]
+    for name, value in fields:
+        if name == "month":
+            # bibtexparser may expand the "aug" macro to "August" on read.
+            # Emitting that unbraced would be invalid BibTeX, since August is
+            # not a defined macro, so normalise back to the three-letter form.
+            macro = value.strip().lower()[:3]
+            rendered = macro if macro in MONTHS else "{" + value + "}"
+        else:
+            rendered = "{" + value + "}"
+        lines.append(f"  {name.ljust(width)} = {rendered},")
+    lines.append("}")
+    return "\n".join(lines)
+
+
 def sort_key(entry: dict) -> tuple[int, int]:
     """Sort key for reverse-chronological ordering (year, then month).
 
@@ -135,6 +176,8 @@ def render_entry(entry: dict) -> str:
         f'  <p class="pub-venue">{venue_line}</p>',
     ]
 
+    bibtex = format_bibtex(entry)
+
     # Link badges. Add further sources here (arXiv, PDF, code, data) as needed.
     badges = []
     doi = entry.get("doi", "").strip()
@@ -160,8 +203,22 @@ def render_entry(entry: dict) -> str:
             f'<a class="pub-badge" href="{url}" target="_blank" '
             f'rel="noopener noreferrer">Publisher</a>'
         )
-    if badges:
-        parts.append('  <p class="pub-links">' + " ".join(badges) + "</p>")
+    # <details> is flow content and cannot live inside a <p>, hence the div.
+    # This also sidesteps the theme's ".page__content p" font-size rule.
+    if badges or bibtex:
+        parts.append('  <div class="pub-links">')
+        parts.extend("    " + badge for badge in badges)
+        if bibtex:
+            parts.extend([
+                '    <details class="pub-cite">',
+                '      <summary class="pub-badge">Cite</summary>',
+                '      <div class="pub-cite__body">',
+                '        <button class="pub-cite__copy" type="button" hidden>Copy</button>',
+                f'        <pre><code>{html.escape(bibtex)}</code></pre>',
+                "      </div>",
+                "    </details>",
+            ])
+        parts.append("  </div>")
 
     licence = entry.get("license", "").strip()
     if licence:
