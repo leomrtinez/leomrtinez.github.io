@@ -32,10 +32,10 @@ repository               : "leomrtinez/leomrtinez.github.io"
 author:
   # Biographic information
   avatar           : "profile.jpeg"
-  name             : "Léo Martinez"
+  name             : "Dr. Léo Martinez"
   pronouns         : # example: "she/her"  
   bio              : "Postdoc Researcher in Planetary Science"
-  location         : "Canada"
+  location         : "Sherbrooke, Canada"
   employer         : "Sherbrooke University"
   url              : # URL
   email            : "leonard.martinez@usherbrooke.ca" 
