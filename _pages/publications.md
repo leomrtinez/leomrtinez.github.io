@@ -18,6 +18,13 @@ pdf_viewer: true
 
 {% include publications_generated.html %}
 
+{% capture upcoming_publications %}{% include publications_upcoming.html %}{% endcapture %}
+{% if upcoming_publications contains "publication-item" %}
+### More to come
+
+{{ upcoming_publications }}
+{% endif %}
+
 ## Thesis
 
 <div class="publication-item">
@@ -30,10 +37,3 @@ pdf_viewer: true
        data-pdf-title="AC/DC: Automatic Crater Detection and Characterization">Full text</a>
   </p>
 </div>
-
-{% capture upcoming_publications %}{% include publications_upcoming.html %}{% endcapture %}
-{% if upcoming_publications contains "publication-item" %}
-## More to come
-
-{{ upcoming_publications }}
-{% endif %}
