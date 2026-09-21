@@ -20,7 +20,7 @@ pdf_viewer: true
 
 {% capture upcoming_publications %}{% include publications_upcoming.html %}{% endcapture %}
 {% if upcoming_publications contains "publication-item" %}
-### More to come
+## More to come...
 
 {{ upcoming_publications }}
 {% endif %}
